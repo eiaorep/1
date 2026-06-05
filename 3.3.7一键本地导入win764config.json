@@ -1,0 +1,2780 @@
+{
+  "tbl_site": [
+    {
+      "key": "vipmv",
+      "name": "天堂资源",
+      "api": "http://vipmv.cc/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "status": true,
+      "type": 1,
+      "id": "2",
+      "isActive": true
+    },
+    {
+      "key": "wolongzyw",
+      "name": "卧龙资源",
+      "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "status": true,
+      "type": 1,
+      "id": "3",
+      "isActive": true,
+      "resource": 63961
+    },
+    {
+      "key": "lziapi",
+      "name": "量子资源",
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "status": true,
+      "type": 1,
+      "id": "5",
+      "isActive": true,
+      "resource": 69618
+    },
+    {
+      "key": "明帝影视",
+      "name": "明帝影视",
+      "api": "https://ys.md214.cn/api.php/provide/vod/",
+      "download": "",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "status": true,
+      "isActive": true,
+      "type": 1,
+      "id": "11",
+      "resource": 62538
+    },
+    {
+      "key": "xinlangapi",
+      "name": "新浪资源",
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "status": true,
+      "type": 1,
+      "id": "14",
+      "isActive": true,
+      "resource": 45563
+    },
+    {
+      "key": "快车资源",
+      "name": "快车资源",
+      "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
+      "download": "",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "status": true,
+      "type": 1,
+      "id": "15",
+      "isActive": true,
+      "resource": 30520
+    },
+    {
+      "key": "yparse",
+      "name": "步步高资源",
+      "api": "https://api.yparse.com/api/json",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "status": true,
+      "type": 1,
+      "id": "18",
+      "isActive": true,
+      "resource": 170965
+    },
+    {
+      "key": "ckzy",
+      "name": "CK资源",
+      "api": "https://ckzy.me/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "status": false,
+      "type": 1,
+      "id": "19",
+      "isActive": true,
+      "resource": 16286
+    },
+    {
+      "key": "jyzyapi",
+      "name": "金鹰资源",
+      "api": "https://jyzyapi.com/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "status": true,
+      "type": 1,
+      "id": "22",
+      "isActive": true,
+      "resource": 45541
+    },
+    {
+      "key": "tiankongapi",
+      "name": "天空资源",
+      "api": "https://api.tiankongapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "status": true,
+      "type": 1,
+      "id": "23",
+      "isActive": true,
+      "resource": 51808
+    },
+    {
+      "key": "feisuzy",
+      "name": "飞速资源",
+      "api": "https://www.feisuzy.com/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "status": false,
+      "type": 1,
+      "id": "24",
+      "isActive": true,
+      "resource": 51422
+    },
+    {
+      "key": "zzrhgg",
+      "name": "飘花资源",
+      "api": "http://www.zzrhgg.com/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "isActive": true,
+      "status": false,
+      "type": 1,
+      "id": "27",
+      "resource": 68968
+    },
+    {
+      "key": "hanjuzy",
+      "name": "韩剧资源",
+      "api": "http://www.hanjuzy.com/inc/apijson_vod.php",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "status": true,
+      "type": 1,
+      "id": "28",
+      "isActive": true,
+      "resource": 5616
+    },
+    {
+      "key": "9fbbb48c-d822-55ed-baee-40964804d8a9",
+      "name": "Ikun资源",
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "download": "",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "status": true,
+      "type": 1,
+      "id": "30",
+      "isActive": true,
+      "resource": 46708
+    },
+    {
+      "key": "apiyhzy",
+      "name": "樱花动漫",
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+      "download": "",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "status": false,
+      "type": 1,
+      "id": "34",
+      "isActive": true,
+      "resource": 80315
+    },
+    {
+      "key": "rrvipw",
+      "name": "rrvipw",
+      "api": "https://www.rrvipw.com/api.php/provide/vod/",
+      "download": "",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "status": false,
+      "type": 1,
+      "id": "35",
+      "isActive": true,
+      "resource": 104461
+    },
+    {
+      "key": "1080zyku",
+      "name": "1080zyku",
+      "api": "http://api.1080zyku.com/inc/api_mac10.php",
+      "download": "",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "status": false,
+      "isActive": true,
+      "type": 1,
+      "id": "36",
+      "resource": 45742
+    },
+    {
+      "key": "vodimg",
+      "name": "影图资源",
+      "api": "https://cj.vodimg.top/api.php/provide/vod/",
+      "download": "",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "status": true,
+      "type": 1,
+      "id": "39",
+      "isActive": true,
+      "resource": 165667
+    },
+    {
+      "key": "映迷影院",
+      "name": "映迷影院",
+      "api": "https://www.inmi.app/api.php/provide/vod/",
+      "download": "",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "status": true,
+      "type": 1,
+      "id": "43",
+      "isActive": true,
+      "resource": 74514
+    },
+    {
+      "key": "易看资源",
+      "name": "易看资源",
+      "api": "https://api.yikanapi.com/api.php/provide/vod/",
+      "download": "",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "status": true,
+      "type": 1,
+      "id": "45",
+      "isActive": true,
+      "resource": 4046
+    },
+    {
+      "key": "红牛资源",
+      "name": "红牛资源",
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "download": "",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "status": true,
+      "type": 1,
+      "id": "59",
+      "isActive": true,
+      "resource": 45359
+    },
+    {
+      "key": "77韩剧",
+      "name": "77韩剧",
+      "api": "https://www.77hanju.com/api.php/provide/vod/",
+      "download": "",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "status": true,
+      "type": 1,
+      "id": "60",
+      "isActive": true,
+      "resource": 5503
+    },
+    {
+      "key": "wandouzy",
+      "name": "豌豆影院",
+      "api": "https://ks.wandouzy.cc/api.php/provide/vod/",
+      "download": "",
+      "playUrl": "",
+      "search": 1,
+      "group": "综合",
+      "status": false,
+      "type": 1,
+      "id": "61",
+      "isActive": true,
+      "resource": 207442
+    },
+    {
+      "key": "adys",
+      "name": "小龟",
+      "api": "https://api123.adys.app/xgapp.php/v3/",
+      "download": "",
+      "playUrl": "",
+      "search": 1,
+      "group": "app",
+      "status": false,
+      "type": 3,
+      "id": "66",
+      "isActive": true
+    },
+    {
+      "key": "iptv8848",
+      "name": "8848",
+      "api": "http://bn.iptv8848.site/api.php/app/",
+      "download": "",
+      "playUrl": "",
+      "search": 1,
+      "group": "app",
+      "status": true,
+      "isActive": true,
+      "type": 3,
+      "id": "69",
+      "resource": 9999
+    },
+    {
+      "key": "juquanweb",
+      "name": "具全",
+      "api": "http://xinxing.juquanweb.top/icciu_api.php/v1.vod",
+      "download": "",
+      "playUrl": "",
+      "search": 1,
+      "group": "app",
+      "status": true,
+      "isActive": true,
+      "type": 4,
+      "id": "72",
+      "resource": 131944
+    },
+    {
+      "key": "laimi",
+      "name": "徕米",
+      "api": "https://www.laimi.me/api.php/v1.vod?limit=12&page=1",
+      "download": "",
+      "playUrl": "",
+      "search": 1,
+      "group": "app",
+      "status": true,
+      "type": 4,
+      "id": "75",
+      "isActive": true,
+      "resource": 9518
+    },
+    {
+      "name": "猫眼资源",
+      "api": "https://api.maoyanapi.top/api.php/provide/vod",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "id": "bea483f6-c8bc-4a4c-aa72-b457e55d0b7e"
+    },
+    {
+      "name": "茅台资源",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "id": "789ca122-9bb8-49ca-bc00-16a412d02095"
+    },
+    {
+      "name": "豆瓣资源",
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/josn/",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "id": "044c17d4-3e86-461d-83f7-f0baee8111f6"
+    },
+    {
+      "name": "虎牙资源",
+      "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "id": "8e0655c3-14b6-4ea8-9577-e9cf9e6973ba"
+    },
+    {
+      "name": "极速资源",
+      "api": "https://jszyapi.com/api.php/provide/vod",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "id": "d8ec3081-075d-43da-a703-5b3281fc9925"
+    },
+    {
+      "name": "速播资源",
+      "api": "https://subocj.com/api.php/provide/vod/at/json",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "id": "368ce08c-af70-4ca7-a5f7-627bbc3e8433"
+    },
+    {
+      "name": "快车资源",
+      "api": "https://caiji.kuaichezy.org/api.php/provide/vod/?ac=list",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "id": "bdb0409d-cea9-4ae9-9aeb-f1c5d36a36a8"
+    },
+    {
+      "name": "映迷影院",
+      "api": "https://www.inmi.app/api.php/provide/vod/",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "id": "83c2f1fe-ca1b-4e0d-bdec-afacad90a765"
+    },
+    {
+      "name": "暴风",
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "id": "900d38fe-3950-4a56-ada1-f1fa4fb3773e"
+    },
+    {
+      "name": "无尽资源",
+      "api": "https://api.wujinapi.me/api.php/provide/vod/",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "id": "84d81f4c-dad6-4836-b772-5e982f26dbc4"
+    },
+    {
+      "name": "非凡资源",
+      "api": "http://www.ffzy.tv/api.php/provide/vod/",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "id": "a2f3d2be-670d-4721-b579-6c3975aaf12e"
+    },
+    {
+      "name": "非凡资源",
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "id": "aa9f8f6d-3b5d-47f2-bd4d-01f0bf1cd9bb"
+    },
+    {
+      "name": "闪电资源网",
+      "api": "https://sdzyapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "id": "74d1b6b5-426b-4c1e-911b-270a6889576b"
+    },
+    {
+      "name": "量子",
+      "api": "http://www.lzzy.tv/api.php/provide/vod/",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "id": "a9242a83-c10d-4651-86b3-47148ef4a584"
+    },
+    {
+      "name": "豪华资源",
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "id": "854135dd-5d18-4284-a665-05820eb75b16"
+    },
+    {
+      "name": "虎牙",
+      "api": "https://www.huyaapi.com/api.php/provide/vod",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "id": "024f991c-e60d-4ffb-a0c0-93d2bf7499eb"
+    },
+    {
+      "name": "红牛资源",
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "id": "986fe9bf-2286-4fe6-b815-8e89452a3a27"
+    },
+    {
+      "name": "索尼",
+      "api": "https://suoniapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "id": "5abdcc69-7170-4895-8724-95549f767614"
+    },
+    {
+      "name": "百度云资源",
+      "api": "https://api.apibdzy.com/api.php/provide/vod/",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "id": "e2a90487-8faf-425d-a465-6c1a0f6b95bb"
+    },
+    {
+      "name": "光速资源",
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "id": "5ad477c5-2da8-4d9b-8e5d-97699e9ffff5"
+    }
+  ],
+  "tbl_iptv": [
+    {
+      "name": "cn.m3u",
+      "url": "C:\\Users\\yl\\Downloads\\ZYFUN配置\\cn.m3u",
+      "epg": "",
+      "type": "local",
+      "isActive": true,
+      "id": "ebd4a5ab-ea21-462e-82f7-804048a4db96"
+    },
+    {
+      "name": "o_all.m3u",
+      "url": "C:\\Users\\yl\\Downloads\\ZYFUN配置\\o_all.m3u",
+      "epg": "",
+      "type": "local",
+      "isActive": true,
+      "id": "2311d669-162a-4a49-8c25-44a3499cf2c6"
+    },
+    {
+      "name": "o_s_cn.m3u",
+      "url": "C:\\Users\\yl\\Downloads\\ZYFUN配置\\o_s_cn.m3u",
+      "epg": "",
+      "type": "local",
+      "isActive": true,
+      "id": "f1061529-f01e-42dc-8890-087dbbc5003f"
+    },
+    {
+      "name": "all.m3u",
+      "url": "C:\\Users\\yl\\Downloads\\ZYFUN配置\\all.m3u",
+      "epg": "",
+      "type": "local",
+      "isActive": true,
+      "id": "c5fe978f-960a-4ebb-bcc2-10e2954db360"
+    }
+  ],
+  "tbl_channel": [
+    {
+      "name": "[BD]brtv卡酷少儿",
+      "logo": "https://epg.pw/media/images/channel/2024/07/29/large/20240729173657196942_32.png",
+      "group": "儿童",
+      "url": "https://stream1.freetv.fun/0122cd6c96b2907d6c2ec3a92cef57adfcd6f69e117bdd666a24461a047ec59f.ctv",
+      "id": "pwcO0Bt3ye7hypae2frmM"
+    },
+    {
+      "name": "[BD]brtv文艺",
+      "logo": "https://epg.pw/media/images/channel/2024/07/29/large/20240729172452698805_26.png",
+      "group": "综艺",
+      "url": "https://stream1.freetv.fun/09ec4900d4de9c74b7b6a236f0e6e32f6865ac8f5e4b4dc63bf26a38600fbca7.ctv",
+      "id": "Hh1YuoG-JiifFFvuHO86C"
+    },
+    {
+      "name": "[BD]brtv生活",
+      "logo": "https://epg.pw/media/",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/3ac1b65d69889e0ad355ecb1f76bad98b46bf1cad28ed7333a7e440fca79c523.ctv",
+      "id": "DVG3S2nwPDaQCuB1aYLHo"
+    },
+    {
+      "name": "[BD]brtv财经",
+      "logo": "https://epg.pw/media/images/channel/2024/07/29/large/20240729172253296176_73.png",
+      "group": "新闻",
+      "url": "https://stream1.freetv.fun/aaa9b688f4071cd678369ef6c7884093adac66334d136b884fd1a5071aa932d0.ctv",
+      "id": "2pd1mF94iEl0qPCcOI1tv"
+    },
+    {
+      "name": "[BD]cctv8k",
+      "logo": "https://epg.pw/media/images/channel/2025/01/28/large/20250128055557713287_44.png",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/f00b65a999808a7628f919dd8b21733a26889424542698837046d0b68e4c75e4.ctv",
+      "id": "tFUwpkrjjvfHCluPih75Z"
+    },
+    {
+      "name": "[BD]documentary",
+      "logo": "https://epg.pw/media/uploads/tmp_logo/2014/05/19/20140519052300032514_79.png",
+      "group": "知识",
+      "url": "https://stream1.freetv.fun/39c6ca9887b134e09b5b500e6b5e8bc96a925f65ef10e490ff3d1558b2f5cd5b.m3u8",
+      "id": "BL_lYVVQnwqMd5mb89h0a"
+    },
+    {
+      "name": "[BD]cctv-11戏曲",
+      "logo": "https://epg.pw/media/images/channel/2021/11/24/large/20211124001035147790_28.png",
+      "group": "电影",
+      "url": "https://stream1.freetv.fun/fcb5c811d0b32e96680235181c937f92691c44facf0460f417eea6a1159f4375.ctv",
+      "id": "bDI60CyeZMb4OMmfnqe_f"
+    },
+    {
+      "name": "[BD]cctv1",
+      "logo": "https://epg.pw/media/images/channel/2025/01/25/large/20250125001359645907_15.png",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/b8dcdc7ba56cbf09277896dfa81c05756e3da4cc48c5b0ad6ea090ab987fb77a.ctv",
+      "id": "keC2uZpZAX2dru2rJb5C1"
+    },
+    {
+      "name": "[BD]cctv10",
+      "logo": "https://epg.pw/media/images/channel/2025/01/25/large/20250125001612572151_13.png",
+      "group": "其它",
+      "url": "https://stream1.freetv.fun/29806059eb936e2abfc8b61bd53f1b6fe901050316c0a6c9e9b03df8f6e48eda.ctv",
+      "id": "f4e2wjdNy__8vksZz3Cle"
+    },
+    {
+      "name": "[SD]cctv11",
+      "logo": "https://epg.pw/media/images/channel/2025/01/25/large/20250125001605278776_41.png",
+      "group": "电影",
+      "url": "https://stream1.freetv.fun/a1ee8a4f3954b5e76c7d40251197d089421f936e5f616960f16ff6494fff42bf.m3u8",
+      "id": "YLYPMPlD9ZzREYzWiaiiF"
+    },
+    {
+      "name": "[BD]cctv12",
+      "logo": "https://epg.pw/media/images/channel/2025/01/25/large/20250125001556307504_11.png",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/713f8c42d89efd6b0b31ab22e8070a22a6eb54790b31f6e8ebe511775c1309f5.ctv",
+      "id": "5NQudzGC6VM6ZW4NIfM-E"
+    },
+    {
+      "name": "[VGA]cctv13新闻",
+      "logo": "https://epg.pw/media/images/channel/2025/01/25/large/20250125001548035027_74.png",
+      "group": "新闻",
+      "url": "https://stream1.freetv.fun/f486f8831650e2d681322a4d73cff71dc1a0abb73cd3ae85a47841c0973b9cdd.ctv",
+      "id": "j6Gfl74Pj6fkv3rl-1_L4"
+    },
+    {
+      "name": "[BD]cctv-14少儿",
+      "logo": "https://epg.pw/media/images/channel/2025/01/25/large/20250125001539178535_27.png",
+      "group": "儿童",
+      "url": "https://stream1.freetv.fun/16b39a17c3bc3f5982d0796055c25699d7ffc0948274e5f69da181d74d680bc8.ctv",
+      "id": "8VssUNzcHzE5V0b1-W-Vn"
+    },
+    {
+      "name": "[VGA]cctv15音乐",
+      "logo": "https://epg.pw/media/images/channel/2025/01/25/large/20250125001529466715_75.png",
+      "group": "音乐",
+      "url": "https://stream1.freetv.fun/4ff2aa344b71cc6bb0ec541e9c3f4b51f71dfa9c283f7c1a73d6de05dd7b8db9.ctv",
+      "id": "irNNEZ9ArKt7zPhiZIq_5"
+    },
+    {
+      "name": "[BD]cctv16",
+      "logo": "https://epg.pw/media/images/channel/2025/01/25/large/20250125001520864227_20.jpg",
+      "group": "运动",
+      "url": "https://stream1.freetv.fun/9ff6b8788643f71b236cc1ea7967b79edf870c1e992eea01d7df92cfeaf3b9db.m3u8",
+      "id": "zc5UPUZwoOpU2wgq_tx52"
+    },
+    {
+      "name": "[BD]cctv17",
+      "logo": "https://epg.pw/media/images/channel/2025/01/25/large/20250125001508671387_16.jpg",
+      "group": "其它",
+      "url": "https://stream1.freetv.fun/6958843bcfef5b203ef94d0746073323225bf80e0cea9f33cfb05a692396233d.m3u8",
+      "id": "lza_Ah5lJ4r8HKTv0O-zs"
+    },
+    {
+      "name": "[VGA]cctv2财经",
+      "logo": "https://epg.pw/media/images/channel/2025/01/25/large/20250125001945876001_87.png",
+      "group": "新闻",
+      "url": "https://stream1.freetv.fun/ec761a960ccb8c0ba303401520130845efb5823211a2e74127985bda02c2b5f3.ctv",
+      "id": "1lOPpyAoXUp5rnlicxrbL"
+    },
+    {
+      "name": "[BD]cctv-3",
+      "logo": "https://epg.pw/media/images/channel/2025/01/25/large/20250125001936710108_56.png",
+      "group": "综艺",
+      "url": "https://stream1.freetv.fun/8ba8cf30de17daf19d06727473112fadb66d94c9375cd93941e29f298fbad860.m3u8",
+      "id": "e-rBZGq304jFIkR332EaL"
+    },
+    {
+      "name": "[BD]cctv4",
+      "logo": "https://epg.pw/media/images/channel/2025/01/25/large/20250125001925822086_33.png",
+      "group": "新闻",
+      "url": "https://stream1.freetv.fun/5ea26961bbc8690cbd372a194e8801249644123feab6354e1f2cdd2b8a0026ca.m3u8",
+      "id": "LcyB2i6mYpctjotV70hif"
+    },
+    {
+      "name": "[HD]cctv4",
+      "logo": "https://epg.pw/media/images/channel/2025/01/25/large/20250125001917639668_91.png",
+      "group": "新闻",
+      "url": "https://stream1.freetv.fun/15a4180e12b35249c7b2bc9d2b5d2feed983b66d309ca216fc6d8782766a349f.ctv",
+      "id": "j4sh_bcRWhcN_7K0pTYf3"
+    },
+    {
+      "name": "[BD]cctv-4中文国际",
+      "logo": "https://epg.pw/media/images/channel/2025/01/25/large/20250125001905740569_14.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/c92aa811a258945338213c876807000d7dac9ebd2b5f305a7417a8586cc683cc.ctv",
+      "id": "nx4aMvChtrkCFlPhZ5niK"
+    },
+    {
+      "name": "[VGA]cctv4中文国际",
+      "logo": "https://epg.pw/media/images/channel/2025/01/25/large/20250125055001229701_29.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/8a07250a04529fe52772a7995691f04a3153bf67960964ad6a63dd6cc7878659.ctv",
+      "id": "now5gxQMNWHPM4ppjeM7A"
+    },
+    {
+      "name": "[BD]cctv5",
+      "logo": "https://epg.pw/media/images/channel/2025/01/25/large/20250125001827124534_66.png",
+      "group": "运动",
+      "url": "https://stream1.freetv.fun/61df3be1490c927a746d671e52c9f9cb197fba5a08184c147a68eb80f84c4824.ctv",
+      "id": "47WyUz37phqW9ifPhJsYO"
+    },
+    {
+      "name": "[VGA]cctv5体育",
+      "logo": "https://epg.pw/media/images/channel/2025/01/25/large/20250125001808321738_22.jpg",
+      "group": "运动",
+      "url": "https://stream1.freetv.fun/860e0a5f39c5b6f419d019b18627cd322fc5fc5bdcc86e4564abb9cee8190b48.ctv",
+      "id": "TY7qatcAzu91r7RxHhpG7"
+    },
+    {
+      "name": "[BD]cctv5",
+      "logo": "https://epg.pw/media/images/channel/2025/01/25/large/20250125001757126121_81.png",
+      "group": "运动",
+      "url": "https://stream1.freetv.fun/a738860ec7fcaf655c7db23c3d6ef52d023e652b5486379db530287184dad292.m3u8",
+      "id": "m6UJuwEZfcdCNE_ZcnUxk"
+    },
+    {
+      "name": "[BD]cctv5",
+      "logo": "https://epg.pw/media/images/channel/2025/01/25/large/20250125001746078420_25.png",
+      "group": "运动",
+      "url": "https://stream1.freetv.fun/5742f641e426b80a1db9052e46632c8b5a0f01b85bc6fc0e8b788ab958dd3c57.m3u8",
+      "id": "D_ONc7yLw-ZGlumkuRaeE"
+    },
+    {
+      "name": "[VGA]cctv6电影",
+      "logo": "https://epg.pw/media/images/channel/2025/01/25/large/20250125001735955364_69.png",
+      "group": "电影",
+      "url": "https://stream1.freetv.fun/78d4ba10cb5fd60397ef88e05196637655aac041e66b339cf8ce7896d1bce881.ctv",
+      "id": "CF-XjgUmhBQ7fDB6D21oU"
+    },
+    {
+      "name": "[BD]cctv7",
+      "logo": "https://epg.pw/media/images/channel/2025/01/25/large/20250125001726519561_49.png",
+      "group": "其它",
+      "url": "https://stream1.freetv.fun/79834e11f92f2d6a40ee7474e2f8f01a88c85e5d84b33a7f0ab13d67b0604a88.m3u8",
+      "id": "0FCeJXs4WRwMXRp51BOH8"
+    },
+    {
+      "name": "[BD]cctv8",
+      "logo": "https://epg.pw/media/images/channel/2025/01/25/large/20250125001717964200_12.png",
+      "group": "电影",
+      "url": "https://stream1.freetv.fun/fc85db28eff7287ded5248c56d2d45b2608cd89f5116ddba1110fe78424461e4.m3u8",
+      "id": "TSXhtY1XmAMu621n9m-Cy"
+    },
+    {
+      "name": "[VGA]cctv9纪录",
+      "logo": "https://epg.pw/media/images/channel/2025/01/25/large/20250125001710136564_30.png",
+      "group": "知识",
+      "url": "https://stream1.freetv.fun/1e6dd60cbcf0dd3c3f70bcf80636a150c35cfc33e03c39a05e09622a62392c4c.ctv",
+      "id": "aHGx7BQ40qXoD6UK-xy30"
+    },
+    {
+      "name": "[SD]cctv第一剧场",
+      "logo": "https://epg.pw/media/images/channel/2022/09/07/large/20220907150153591598_13.jpg",
+      "group": "电影",
+      "url": "https://stream1.freetv.fun/631e31539c1b0c0c745f6727dd2e9511ef40616c5732baa462609264fa22c757.m3u8",
+      "id": "QShATFq7JVMVlr96gJC_2"
+    },
+    {
+      "name": "[BD]cctv风云足球",
+      "logo": "https://epg.pw/media/images/channel/2022/05/10/large/20220510165533742367_97.jpg",
+      "group": "运动",
+      "url": "https://stream1.freetv.fun/f5984a4a5c2d0b153f783bfe5878209ce03902d76521ede65c4c52f54d50284b.m3u8",
+      "id": "GEcwsGtjzETNn8PpkRPTm"
+    },
+    {
+      "name": "[VGA]cetv1",
+      "logo": "https://epg.pw/media/images/channel/2020/03/22/large/20200322212610371208_90.png",
+      "group": "其它",
+      "url": "https://stream1.freetv.fun/f3ae1dadd66863a3d8d2d948a4ab7ee00b38a1bc8bcfac8b6b51cd210d5fcf2e.ctv",
+      "id": "gxIVxa5t6Zmo8QJxJIcnb"
+    },
+    {
+      "name": "[BD]cgtn",
+      "logo": "https://epg.pw/media/images/channel/2022/04/29/large/20220429020115798784_73.png",
+      "group": "知识",
+      "url": "https://stream1.freetv.fun/bb88fd2e2af000c20e9f8a2c29c19b3c5b35fcc045ee9864b319736e7dcc33c7.m3u8",
+      "id": "PjaBloGP5zpOg-MU83V-u"
+    },
+    {
+      "name": "[BD]rt",
+      "logo": "https://epg.pw/media/images/channel/2022/05/20/large/20220520002125587039_56.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/5f7a8fbeb30bfd89e4296f8f9054ee4865b12dd92db69a1436dfcb784dc1d989.m3u8",
+      "id": "bCdC_wMah7ZFOy5niFmOj"
+    },
+    {
+      "name": "[BD]cgtn",
+      "logo": "https://epg.pw/media/images/channel/2022/05/20/large/20220520002319040251_53.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/8b2e227859e9c10db1b8a04d180b0415b38c6f3ece2bb89dd06c062a8c63b62e.m3u8",
+      "id": "uZ_DFY5iTOEaT12BEcluR"
+    },
+    {
+      "name": "[HD]cgtn",
+      "logo": "https://epg.pw/media/images/channel/2022/05/20/large/20220520002527861002_28.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/800af3de6d2cab9fc463ec417c6ab737591154a8eafa27fb43713a33bc7f6dd5.m3u8",
+      "id": "vxvAVm5HtMcSVrgMEWJ-o"
+    },
+    {
+      "name": "[HD]chc动作电影",
+      "logo": "https://epg.pw/media/images/channel/2023/07/20/large/20230720204146046493_74.png",
+      "group": "电影",
+      "url": "https://stream1.freetv.fun/326dbff08ac3f3daab8e3c5eb5b353bcb2ef1a0073b6a873cd5200bfce80c503.ctv",
+      "id": "TrUHGgNthtjWSPRBPWP_U"
+    },
+    {
+      "name": "[BD]chc家庭影院",
+      "logo": "https://epg.pw/media/images/channel/2023/07/20/large/20230720204118595367_23.png",
+      "group": "电影",
+      "url": "https://stream1.freetv.fun/2b45ab26788c821401371dbf86a901788c370be24c871d66c9f0e0e38a26997f.m3u8",
+      "id": "cQrXWNDuqgqZ67yV-gu9Y"
+    },
+    {
+      "name": "[BD]chc影迷电影",
+      "logo": "https://epg.pw/media/images/channel/2026/02/26/large/20260226032425495400_69.jpg",
+      "group": "电影",
+      "url": "https://stream1.freetv.fun/7e5bfba7669a360f9ceee2e2641ca7d527e551e211009ec569fca31d4689919d.ctv",
+      "id": "CjwD7yNQwNILL7IksRaBq"
+    },
+    {
+      "name": "[SD]nfl",
+      "logo": "https://epg.pw/media/images/channel/2020/06/12/large/20200612211935282486_63.png",
+      "group": "电影",
+      "url": "https://stream1.freetv.fun/b815242bb6eb2bff5879e82b1e538b32a378fced5d6cde60e8c0e7926b6b1bf4.m3u8",
+      "id": "_lYJuKRHYq9xRTVdi1J7G"
+    },
+    {
+      "name": "[BD]nbtv-1",
+      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506164220809563_25.png",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/79e1ce2e2c4dcf1e45f26cfed5c7c2a8f3b2063bee62b9e3d7694656b1ee4872.m3u8",
+      "id": "Yn-e1eULWNF_i7037QUK4"
+    },
+    {
+      "name": "[BD]nbtv-2",
+      "logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506163152045628_30.png",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/c7459dc7865a3868192a32c92860cfad58cdb5133424ee316088f831a823e195.m3u8",
+      "id": "YK5JFe4m_CHOKEmJ1phl3"
+    },
+    {
+      "name": "[VGA]三沙卫视",
+      "logo": "https://epg.pw/media/images/channel/2022/05/14/large/20220514162237808392_17.jpg",
+      "group": "其它",
+      "url": "https://stream1.freetv.fun/2f29bdf337cfd1004d4deb54a8f7ab4476ca8a0d740651bb6e9f8b71fdbdb60e.ctv",
+      "id": "I4c2RgwPWyypHpWY1_zld"
+    },
+    {
+      "name": "[SD]上海新闻综合",
+      "logo": "https://epg.pw/media/images/channel/2024/07/28/large/20240728175315523478_16.jpg",
+      "group": "新闻",
+      "url": "https://stream1.freetv.fun/ae1e5ba924f70d20ff760d1eb8f0ab71583a7fe6549edb506193b0c54387d9a0.ctv",
+      "id": "tFcudM2IFH95OSx1tNQJ6"
+    },
+    {
+      "name": "[BD]上海都市",
+      "logo": "https://epg.pw/media/images/channel/2024/07/28/large/20240728225114975519_45.png",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/739243957c92ecc3c5cc8e2d33bbc6ef1fd8529992bbf7ab1a9dcef5e17429d4.ctv",
+      "id": "OQjAaCqp1xPuIIRSchtgx"
+    },
+    {
+      "name": "[BD]上虞文化影院",
+      "logo": "https://epg.pw/media/images/channel/2023/10/13/large/20231013202705439883_79.png",
+      "group": "电影",
+      "url": "https://stream1.freetv.fun/b6810db85578f6b240f95f6bf3277d11bc5766b089b3f0d554921de7b9560fff.m3u8",
+      "id": "EEUlspkMiZ8gTEZdku_i_"
+    },
+    {
+      "name": "[BD]上虞新商都",
+      "logo": "https://epg.pw/media/images/channel/2023/10/13/large/20231013202719923933_88.png",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/3304d40ab080cfdc62386a8b26bd04cdbc7330f96858e3e1a69326aa4a94ed2a.m3u8",
+      "id": "k0f5o2myNBZUBW2jmPtsf"
+    },
+    {
+      "name": "[BD]上虞新闻综合",
+      "logo": "https://epg.pw/media/images/channel/2023/10/13/large/20231013202735777838_86.png",
+      "group": "新闻",
+      "url": "https://stream1.freetv.fun/78f55f361d865fb3a113720e11fded9307bb9cb180fe731826736d2f5df8ca0b.m3u8",
+      "id": "sxleb16YNIyNRV3TDiCRH"
+    },
+    {
+      "name": "[HD]东莞新闻综合",
+      "logo": "https://epg.pw/media/images/channel/2022/11/01/large/20221101014703270530_22.jpg",
+      "group": "新闻",
+      "url": "https://stream1.freetv.fun/0e4ec0d4d0c1ee3ba02ddb214dc5cc5a5f754b50fbf81ee700f1af9d67eeb9d0.m3u8",
+      "id": "TMqHkWH25I_stTAX77nWD"
+    },
+    {
+      "name": "[SD]五星体育",
+      "logo": "https://epg.pw/media/images/channel/2026/03/11/large/20260311054355480267_59.jpg",
+      "group": "运动",
+      "url": "https://stream1.freetv.fun/f7fd467306b7f42162d8640b27ee41e8f42134349c10a75bb08ed3a9f2690d40.ctv",
+      "id": "FD778mXpWgxD9ngsgC34I"
+    },
+    {
+      "name": "[BD]佛山公共",
+      "logo": "https://epg.pw/media/images/channel/2022/06/11/large/20220611224108495634_55.jpg",
+      "group": "其它",
+      "url": "https://stream1.freetv.fun/c881ad0a2c1a5c32af3f9bb4b3ce8e52f88f0203e977410083afd0bd7448b27c.ctv",
+      "id": "n-DtXn2dK84rUiXw_HoUm"
+    },
+    {
+      "name": "[HD]萧山新闻综合",
+      "logo": "https://epg.pw/media/img/logo/3_388.jpg",
+      "group": "其它",
+      "url": "https://stream1.freetv.fun/96b676fffbe7631a6096d8a4dbc7e3eeb39090a7542758b85179a676aa17b732.m3u8",
+      "id": "tFdsUztB4ZdTorH3I7KR9"
+    },
+    {
+      "name": "[BD]佛山综合",
+      "logo": "https://epg.pw/media/images/channel/2022/06/11/large/20220611224254627690_87.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/dd6aa80b8ade7e8e595cbc2647d707bd78ab201a2865e971c3576386acee3fc6.ctv",
+      "id": "AroStFerpLh1zb9N12rKc"
+    },
+    {
+      "name": "[SD]优漫卡通",
+      "logo": "https://epg.pw/media/images/channel/2022/05/30/large/20220530225428953453_32.jpg",
+      "group": "儿童",
+      "url": "https://stream1.freetv.fun/eff0a7c884bde67f455c23a1c4d75feb11048dfc1646f9758c6180f04b28b21e.m3u8",
+      "id": "k4t4DewP0_LrzkGySi9sl"
+    },
+    {
+      "name": "[HD]内江科教",
+      "logo": "https://epg.pw/media/images/channel/2023/07/22/large/20230722142304073171_20.png",
+      "group": "综合",
+      "url": "rtmp://njzb.scnj.tv:1938/live/kjpd_kjpd800",
+      "id": "ZBHKoNgoYY7YhzVVy1Qnj"
+    },
+    {
+      "name": "[VGA]内江综合",
+      "logo": "https://epg.pw/media/images/channel/2023/07/22/large/20230722142242811328_18.png",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/acdb0c67bd1e814d27ae5f8d31376a50f348b0a028df08c99c1496fea63f3cb5.m3u8",
+      "id": "TjouQAyfjZW3Xi6htfAWC"
+    },
+    {
+      "name": "[SD]内蒙古卫视",
+      "logo": "https://epg.pw/media/images/channel/2022/05/31/large/20220531160914023715_85.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/1e5dc1f802d7775ea9cde7b7b874b914365797c6718c5e95448aa26648e136e6.m3u8",
+      "id": "w1VTV-Y164NG3_IhyTN00"
+    },
+    {
+      "name": "[SD]兵团卫视",
+      "logo": "https://epg.pw/media/images/channel/2025/01/28/large/20250128061107039210_54.png",
+      "group": "其它",
+      "url": "https://stream1.freetv.fun/7e0d9638f60dca70ddc3a2437eb10e874587f11f9d3efd833e71acfbdf2de2d6.m3u8",
+      "id": "L0kiddbspUiO7FHHypU3_"
+    },
+    {
+      "name": "[SD]刘德华",
+      "logo": "https://epg.pw/media/images/channel/2022/05/25/large/20220525051544390111_69.png",
+      "group": "电影",
+      "url": "https://stream1.freetv.fun/77c55891906e7d7fc960759c42c395c7d290d5f7cb402625278314b691d0c3f6.ctv",
+      "id": "-9ErHpVhxQuRKstmtCHOl"
+    },
+    {
+      "name": "[BD]动漫秀场",
+      "logo": "https://epg.pw/media/images/channel/2024/07/28/large/20240728160943951323_78.png",
+      "group": "儿童",
+      "url": "https://stream1.freetv.fun/92770c17901d40448d85aff2a2a1a7d5df7bc2d11a45e6c1aeb260b8172f99fe.ctv",
+      "id": "88B1j6Q8Lm49y8bsQhre2"
+    },
+    {
+      "name": "[BD]北京卫视",
+      "logo": "https://epg.pw/media/images/channel/2024/10/29/large/20241029101351559578_45.png",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/217f4f75f9a74bf1809629bcbb3fa197c1ba1b4ba529514de80cde5171e972a0.m3u8",
+      "id": "Xnx8ys_2uc-9GD2LvjO13"
+    },
+    {
+      "name": "[HD]南京教科",
+      "logo": "https://epg.pw/media/images/channel/2022/05/31/large/20220531150246604427_70.jpg",
+      "group": "其它",
+      "url": "https://stream1.freetv.fun/728c1aa723417ba38b322b0785a3682945237a79836b71a40ce60c778143f7ce.m3u8",
+      "id": "R3QgU0eYCnFeFqhO3yr9I"
+    },
+    {
+      "name": "[HD]南京新闻综合",
+      "logo": "https://epg.pw/media/images/channel/2022/05/31/large/20220531150344913095_13.jpg",
+      "group": "新闻",
+      "url": "https://stream1.freetv.fun/5b4b16310f8c33dd6977992d1d1fa402cff0c85f10d68bbfc4e0415e95a74492.m3u8",
+      "id": "Z-4HrBFSAz630qUHopDgp"
+    },
+    {
+      "name": "[BD]南充科教",
+      "logo": "https://epg.pw/media/images/channel/2023/07/22/large/20230722143610281782_47.png",
+      "group": "其它",
+      "url": "https://stream1.freetv.fun/69f85aa78fe418f62d478774102a85a11e72ce3588197351f940bfe3c184bccd.m3u8",
+      "id": "47t2rnp2dOK3P8a0xiqCG"
+    },
+    {
+      "name": "[BD]南充综合",
+      "logo": "https://epg.pw/media/images/channel/2023/07/22/large/20230722143551588791_16.png",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/60674c5c967d409a08426f032650552c77f3ff359cb2ad4bdb67ee962db25a8e.m3u8",
+      "id": "g9W9SiC4pqogb1p38QsXV"
+    },
+    {
+      "name": "[BD]广州南国都市",
+      "logo": "https://epg.pw/media/images/channel/2023/07/19/large/20230719065040166476_47.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/63b19e3d3d115230a2db8b1875129e25a56eb740187ccb2ca52bc8a6afa2b0b9.m3u8",
+      "id": "6J7EexyMoonP3HiTZPPjE"
+    },
+    {
+      "name": "[HD]南宁公共",
+      "logo": "https://epg.pw/media/images/channel/2022/06/11/large/20220611224340624153_47.jpg",
+      "group": "其它",
+      "url": "https://stream1.freetv.fun/c3d663bad258dd1fb7e0424a502e07b8f14eabd61cdf0286705037acd7bec0e8.m3u8",
+      "id": "6yFNOnKChrLTm7_DeKLI6"
+    },
+    {
+      "name": "[HD]南宁新闻综合",
+      "logo": "https://epg.pw/media/images/channel/2022/06/11/large/20220611224520871696_94.jpg",
+      "group": "新闻",
+      "url": "https://stream1.freetv.fun/407744f7fb47c88ea74cdafe06903296c02e65ec29ef487568b8a2a2ac66c80e.m3u8",
+      "id": "ChAYouu7G1WwNrsWZVYj8"
+    },
+    {
+      "name": "[HD]南宁都市生活",
+      "logo": "https://epg.pw/media/images/channel/2022/06/11/large/20220611224605447483_55.jpg",
+      "group": "其它",
+      "url": "https://stream1.freetv.fun/a9af94066f6daf6874d6d2b012c433acb150af42e35653f73e904acfabb2d49e.m3u8",
+      "id": "UcZG5PmOfv_cIqmpBenfC"
+    },
+    {
+      "name": "[HD]四平新闻综合",
+      "logo": "https://epg.pw/media/images/channel/2022/11/01/large/20221101002314166539_20.jpg",
+      "group": "新闻",
+      "url": "https://stream1.freetv.fun/b16094c2af0b85938a88f40181cfd5f22baee019496bebdd914ad35b52d106d9.m3u8",
+      "id": "Fi2yftVY4B-l6Hk4gAsXa"
+    },
+    {
+      "name": "[BD]新昌新闻综合",
+      "logo": "https://epg.pw/media/img/logo/3_8.jpg",
+      "group": "新闻",
+      "url": "https://stream1.freetv.fun/815f92753eec1322b02c49809238cd6b24e01e85f43c90abc9b9262e1fe53eee.m3u8",
+      "id": "U5xf9kNvasKevmkpGalCP"
+    },
+    {
+      "name": "[BD]台州新闻综合",
+      "logo": "https://epg.pw/media/images/channel/2022/11/01/large/20221101020712299758_11.jpg",
+      "group": "新闻",
+      "url": "https://stream1.freetv.fun/c4e5873503b189c2c828b0a60392ad7bcc04f20320b4de9fef041904fc33f693.m3u8",
+      "id": "O-R-qpu_tZ9kAAzMvfQTM"
+    },
+    {
+      "name": "[SD]吉林生活",
+      "logo": "https://epg.pw/media/images/channel/2024/07/28/large/20240728204149894338_16.png",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/8d2caed6e8682f1923304671b9b56ea7c82530fa108741683a115054957c9677.m3u8",
+      "id": "OdbYp-Idi5d3haYgsX8Ta"
+    },
+    {
+      "name": "[SD]吉林综艺文化",
+      "logo": "https://epg.pw/media/images/channel/2024/07/28/large/20240728203909178119_58.png",
+      "group": "综艺",
+      "url": "https://stream1.freetv.fun/23646b85ea1432d810d00685f82f61570363f6fcb92c96a74b9aaa261f15b6dd.m3u8",
+      "id": "7KKNSZ2r4w8QBXHR71DM1"
+    },
+    {
+      "name": "[VGA]吉林卫视",
+      "logo": "https://epg.pw/media/images/channel/2024/07/28/large/20240728163659540434_96.png",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/657b3cc8f2106d0e0b52d0bc7f0e15db544b37b3e86bf5f486f351b9db61fa2e.ctv",
+      "id": "drqRffFuL_QgehxgUH3km"
+    },
+    {
+      "name": "[SD]吉林都市",
+      "logo": "https://epg.pw/media/images/channel/2024/07/28/large/20240728204303155043_23.png",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/233d672c3058b07eab24f2329d0c33ac7336e71c57ce4d37bfc2b4b05bd9b24b.m3u8",
+      "id": "YDTwMUsRbpry-GVmpDA0a"
+    },
+    {
+      "name": "[HD]哈哈炫动",
+      "logo": "https://epg.pw/media/images/channel/2024/07/28/large/20240728170921300690_78.png",
+      "group": "儿童",
+      "url": "https://stream1.freetv.fun/85aec22da72dbb69d4271fbde70b929f467b7d1b7c3c21639939b3d7865a00ac.m3u8",
+      "id": "6RF7JF6UI12ZR6tPhn6aL"
+    },
+    {
+      "name": "[VGA]哈尔滨娱乐",
+      "logo": "https://epg.pw/media/images/channel/2022/10/24/large/20221024220527879025_88.jpg",
+      "group": "综艺",
+      "url": "https://stream1.freetv.fun/4ba7c23704180253389bb6b17009e2d88e3d472c1d043dffa329635f38bfb088.m3u8",
+      "id": "yco1rBvIwAWrbbTCzWn9R"
+    },
+    {
+      "name": "[VGA]哈尔滨影视",
+      "logo": "https://epg.pw/media/img/logo/2_44.jpg",
+      "group": "电影",
+      "url": "https://stream1.freetv.fun/b681acfb3d9cf5bc9d056d8513a6f1ef9ead223fe349f541e02a39edfabbd88a.m3u8",
+      "id": "O1DVJ6JAbPodNjWqHBqJ9"
+    },
+    {
+      "name": "[VGA]哈尔滨新闻综合",
+      "logo": "https://epg.pw/media/img/logo/2_48.jpg",
+      "group": "其它",
+      "url": "https://stream1.freetv.fun/ca8f57fc39d536dd721699325e3fc7ac9ca96fbe65f453531c01227f830b12cb.m3u8",
+      "id": "5D1rgAfc0s5r0FQCfEwOB"
+    },
+    {
+      "name": "[VGA]哈尔滨生活",
+      "logo": "https://epg.pw/media/img/logo/2_46.jpg",
+      "group": "其它",
+      "url": "https://stream1.freetv.fun/71746238db63ed6951b3f0a4cbc42467d1a7b32c1925b4854de68ed71d678c98.m3u8",
+      "id": "wJASeOSBnZrarknhZeaA8"
+    },
+    {
+      "name": "[SD]嘉佳卡通",
+      "logo": "https://epg.pw/media/images/channel/2024/01/14/large/20240114130936768099_46.png",
+      "group": "儿童",
+      "url": "https://stream1.freetv.fun/bee9044f047d4458c631c35b7af51298a624b14d6f9b74a4ea6985c8e4b36106.ctv",
+      "id": "Doha7KyOB47Rzkl3U2ltt"
+    },
+    {
+      "name": "[BD]嘉兴新闻综合",
+      "logo": "https://epg.pw/media/img/logo/3_102.jpg",
+      "group": "新闻",
+      "url": "https://stream1.freetv.fun/896ca707b844180e10fd9501bddd73f95d1493423adb2f0ae0acdff060297426.m3u8",
+      "id": "IOIh82I2vhqzNWOBOToXd"
+    },
+    {
+      "name": "[BD]四川影视",
+      "logo": "https://epg.pw/media/images/channel/2022/05/28/large/20220528222225671296_45.jpg",
+      "group": "电影",
+      "url": "https://stream1.freetv.fun/4cabf8a7cc6619efa176c97e20b163b7244ea991bbd7d2453c0d575d6af1183c.m3u8",
+      "id": "ddRr87B0wr1o3zILxsx9M"
+    },
+    {
+      "name": "[BD]四川文化",
+      "logo": "https://epg.pw/media/images/channel/2022/05/28/large/20220528220958056155_72.jpg",
+      "group": "其它",
+      "url": "https://stream1.freetv.fun/4ef3c1b3bee76ad7dea737459be21c92d2370476c6cd20cea5339fe6c7bb878a.m3u8",
+      "id": "EunTIv8dilHnwW-f9Q5PE"
+    },
+    {
+      "name": "[BD]四川新闻",
+      "logo": "https://epg.pw/media/images/channel/2022/05/28/large/20220528220327282481_91.jpg",
+      "group": "新闻",
+      "url": "https://stream1.freetv.fun/5c72646850b6028bf16c76329ccd2cddab6c4cbc4beaa2f7f3a0a77f3c59a638.m3u8",
+      "id": "8Fh9lRJb8oZiq5o4x4Bl8"
+    },
+    {
+      "name": "[BD]四川科教",
+      "logo": "https://epg.pw/media/images/channel/2022/05/28/large/20220528221105613593_11.jpg",
+      "group": "其它",
+      "url": "https://stream1.freetv.fun/dd26f57be074ce07e1fb0d357b9bff2846bd030575df792d54abb4299ba5ada0.m3u8",
+      "id": "5oLQNRNy5oySYNVIo7aAv"
+    },
+    {
+      "name": "[BD]四川经济",
+      "logo": "https://epg.pw/media/images/channel/2022/05/28/large/20220528221155464432_44.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/24b3aea8583b7da440c6ce6a7e913743c0a981b02c97a3434eae205c808930a7.m3u8",
+      "id": "Vl5gNBxDJlmrCsr7c5mwq"
+    },
+    {
+      "name": "[HD]四川卫视",
+      "logo": "https://epg.pw/media/images/channel/2022/05/28/large/20220528220452110808_30.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/b6824b72fbee9e42fac87484354cec553eb769a71a6536f94eacb50743dcfd1b.m3u8",
+      "id": "V8o0tUYZE8fOPhkCoZ7eS"
+    },
+    {
+      "name": "[BD]大湾区卫视",
+      "logo": "https://epg.pw/media/images/channel/2024/01/14/large/20240114132000365190_44.png",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/5541653e7ec9b88139ad499c274fd765cae9c0f1a2277deaa6a713cffa1cc7a3.m3u8",
+      "id": "kE0AMIx3MsRSagBx9dtv6"
+    },
+    {
+      "name": "[BD]天津卫视",
+      "logo": "https://epg.pw/media/images/channel/2026/02/26/large/20260226025419139967_11.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/a700de96dc13188f1532d89bbb699c4232e8c8c62418eaca13e737017ea8eec7.m3u8",
+      "id": "Qjhv-Rg9nR7YUyDZjfFYX"
+    },
+    {
+      "name": "[HD]太谷新闻综合",
+      "logo": "https://epg.pw/media/images/channel/2022/10/23/large/20221023010857799299_19.jpg",
+      "group": "新闻",
+      "url": "https://stream1.freetv.fun/63a19973d726fe3a5047df542074d4f01d156e4756dfc656240239aee1433dc1.m3u8",
+      "id": "ATp7zFalNkyv64GR1wuL7"
+    },
+    {
+      "name": "[HD]东莞新闻综合",
+      "logo": "https://epg.pw/media/images/channel/2022/11/02/large/20221102234617846892_18.jpg",
+      "group": "新闻",
+      "url": "https://stream1.freetv.fun/3a8bc2a33209245152c953716faa97cb6f72fd8090a2485f1e099c1ce1becd5d.m3u8",
+      "id": "CoBIrO9hPMs8dk-if3MF5"
+    },
+    {
+      "name": "[BD]安多卫视",
+      "logo": "https://epg.pw/media/images/channel/2022/01/15/large/20220115214146158986_19.png",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/4848b402c9dea38c2173f2acac497c00593aab7c0e29839ab7fc6c97361018cc.m3u8",
+      "id": "mxxgAJqSQcesJD1aYfDZS"
+    },
+    {
+      "name": "[SD]安徽影视",
+      "logo": "https://epg.pw/media/images/channel/2022/05/30/large/20220530223930402517_98.jpg",
+      "group": "电影",
+      "url": "https://stream1.freetv.fun/8d9fb9f7088f6bc05408016d5ea0fe419bf2389c24fe343598fb1c02b3d5150c.m3u8",
+      "id": "JBc3S3XfT3parsZwG-ZQO"
+    },
+    {
+      "name": "[BD]安徽卫视",
+      "logo": "https://epg.pw/media/images/channel/2023/07/19/large/20230719113027191823_22.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/aa9b31c1dbeffb511830532e0b8f1413b48dd2c61e59e843d19ba9fc3a073241.m3u8",
+      "id": "7F9AXIy62kPdIDP1QbEZy"
+    },
+    {
+      "name": "[BD]瑞安新闻综合",
+      "logo": "https://epg.pw/media/img/logo/1_350.jpg",
+      "group": "新闻",
+      "url": "https://stream1.freetv.fun/b02452e75d04bc2f57234b78d767850a97db5c6ce7ba89d56e27c46c5e0ff7b0.m3u8",
+      "id": "WzrlaTxJSOUkAli-70EWW"
+    },
+    {
+      "name": "[BD]雅安新闻综合",
+      "logo": "https://epg.pw/media/images/channel/2022/10/31/large/20221031232831325255_59.jpg",
+      "group": "新闻",
+      "url": "https://stream1.freetv.fun/a4022704fda985d72494721ed8a09e1846b04c8389c54ee607a801ebe91e09aa.m3u8",
+      "id": "vkiw0nhMGDZFdy5Lbee7Q"
+    },
+    {
+      "name": "[BD]宜兴新闻",
+      "logo": "https://epg.pw/media/img/logo/yixingxinwen.jpg",
+      "group": "测试",
+      "url": "https://stream1.freetv.fun/3c2ebeb4552510de3d4ab0118e21a6e24be3f868258b342aadd7dd1716cea2ca.m3u8",
+      "id": "nWh4CkSskINP06voBNYEU"
+    },
+    {
+      "name": "[BD]宁夏卫视",
+      "logo": "https://epg.pw/media/images/channel/2022/05/31/large/20220531153504056322_25.jpg",
+      "group": "其它",
+      "url": "https://stream1.freetv.fun/cc16a0fe49219a8e892e4ac0a89d626d09f0c5af7cd94198648427aca9719943.ctv",
+      "id": "EWscDTdpRAClGWWRJFV_t"
+    },
+    {
+      "name": "[BD]宁新综合",
+      "logo": "https://epg.pw/media/images/channel/2022/08/12/large/20220812220328701004_15.jpg",
+      "group": "新闻",
+      "url": "https://stream1.freetv.fun/b41e28e07f11fd67aa1d9f4332d2e339ebb0c6182e018d5234b0ab572a6a0f28.m3u8",
+      "id": "EwlobFdK5Y293s9cEYQkJ"
+    },
+    {
+      "name": "[BD]山东卫视",
+      "logo": "https://epg.pw/media/images/channel/2023/07/19/large/20230719112946432101_81.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/6ae72c2ed9e03972d255c19be7f49c4731d8c51bfd1dfc150e73a2d7a132235d.m3u8",
+      "id": "xtMH1w8s02Hf-4AHUT5qI"
+    },
+    {
+      "name": "[BD]山西卫视",
+      "logo": "https://epg.pw/media/images/channel/2023/08/04/large/20230804221555254122_47.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/2f538e8c3c3dc60b99799fb3331f5f05b5a9c3c574544b4178a57a7de78f6884.ctv",
+      "id": "zGyJK6I3JQQANXxw9UzCL"
+    },
+    {
+      "name": "[BD]峨嵋电影",
+      "logo": "https://epg.pw/media/images/channel/2022/05/28/large/20220528220637189192_50.jpg",
+      "group": "电影",
+      "url": "https://stream1.freetv.fun/4b000a541e51690025326cffbf43d0e994a6327abaa0dc59b79021949e62d289.m3u8",
+      "id": "s5ctj5xLug8diV3szkfzm"
+    },
+    {
+      "name": "[BD]岭南戏曲",
+      "logo": "https://epg.pw/media/images/channel/2024/01/14/large/20240114131157979340_60.png",
+      "group": "其它",
+      "url": "https://stream1.freetv.fun/d765215aa01852928728857a458ce41ae3c5c04fa90622dc587c840dbcd33fb6.ctv",
+      "id": "8JXdDEOQP6TZ6tUw-KXuo"
+    },
+    {
+      "name": "[SD]康巴卫视",
+      "logo": "https://epg.pw/media/images/channel/2022/05/28/large/20220528220546451462_40.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/295dab8dd3a41d46b785fb58e7500b7009075daa90a521415f2aa8c5f90d94fa.m3u8",
+      "id": "4LIyL_-6Dt2bWXeBsA8AZ"
+    },
+    {
+      "name": "[SD]厦门卫视",
+      "logo": "https://epg.pw/media/images/channel/2022/04/27/large/20220427145557789544_92.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/a927444efa3d55d3d42d4d80fc9dd565caeae93fe0328d6e078367c2120df3d4.m3u8",
+      "id": "3thT8ZcOuCrauqmAoKjzD"
+    },
+    {
+      "name": "[BD]广元综合",
+      "logo": "https://epg.pw/media/images/channel/2023/07/22/large/20230722142456345259_58.png",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/e115ad1ad555af4231de24edf51b85a967f85cd17d76c84f28198770e7e9600a.m3u8",
+      "id": "1d-NTr8pPTcBDIusG2CwL"
+    },
+    {
+      "name": "[HD]广州影视",
+      "logo": "https://epg.pw/media/images/channel/2023/07/21/large/20230721135446196276_41.png",
+      "group": "电影",
+      "url": "https://stream1.freetv.fun/2a43a84d657a150eb0dc8688b60bed45d33503727a8d9cee72bc46dbe524e7fe.ctv",
+      "id": "2fcstNUaoYLOHSfOwN5F7"
+    },
+    {
+      "name": "[BD]广州新闻",
+      "logo": "https://epg.pw/media/images/channel/2023/07/21/large/20230721135410645686_37.png",
+      "group": "新闻",
+      "url": "https://stream1.freetv.fun/d85db11a46950343792558eabc684c0fe4c8a0ccb81e7c4a3acd3b02f304f0fb.ctv",
+      "id": "WFT9f4jB4D91CStdPbdfW"
+    },
+    {
+      "name": "[HD]广州竞赛",
+      "logo": "https://epg.pw/media/images/channel/2023/07/21/large/20230721135340570397_23.png",
+      "group": "运动",
+      "url": "https://stream1.freetv.fun/3bae77bc5c50d229f017065385ace3d322b9059fb639f24d52c38d217335f842.m3u8",
+      "id": "RbO5ag5NduRy_h-dGlVV4"
+    },
+    {
+      "name": "[HD]广州综合",
+      "logo": "https://epg.pw/media/images/channel/2023/07/21/large/20230721135738882605_91.png",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/91ae862b8b3ce7a58fb837900e84984ae323afa312699797c3eb21ac4ff060df.ctv",
+      "id": "YrEeaS_LK-6y417C2Sb2i"
+    },
+    {
+      "name": "[HD]广州综合",
+      "logo": "https://epg.pw/media/images/channel/2023/07/21/large/20230721135649475476_85.png",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/861e7c54463cfe70d29e3b18aeee18dce9a7f349aa5ef81ab8116c0da7feee3a.m3u8",
+      "id": "iHSs_OhX2DiQgEiKbx9gz"
+    },
+    {
+      "name": "[SD]广东公共",
+      "logo": "https://epg.pw/media/images/channel/2023/12/26/large/20231226205441024635_70.png",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/841ec19179fb6b55156a5fc6d33c499d26d6bdd0d88194a25f183f0d34e5ee0b.m3u8",
+      "id": "6ejQHbqdCrjP6eijfyYE0"
+    },
+    {
+      "name": "[BD]广东少儿",
+      "logo": "https://epg.pw/media/images/channel/2023/07/21/large/20230721133553685102_74.png",
+      "group": "儿童",
+      "url": "https://stream1.freetv.fun/0bb69b831d301b4c7225110444e4529021f8de492d7d1a6b6a809e67e993ca78.ctv",
+      "id": "VFDiYsgojpeJo4DaScMdD"
+    },
+    {
+      "name": "[BD]广东影视",
+      "logo": "https://epg.pw/media/images/channel/2024/01/14/large/20240114130217262909_90.png",
+      "group": "电影",
+      "url": "https://stream1.freetv.fun/befb766cccc3f4aea99c123080b37aaadd09e409aaad63a496f1e970d7ecfcfd.m3u8",
+      "id": "FkSZGajV43GX8r932U8pN"
+    },
+    {
+      "name": "[HD]广东新闻",
+      "logo": "https://epg.pw/media/images/channel/2024/01/14/large/20240114131740840005_79.png",
+      "group": "新闻",
+      "url": "https://stream1.freetv.fun/530edbc03b4004c11ca82592e455d80ee8f79b62aa8b97563d1dfd759d1d2b46.m3u8",
+      "id": "WpgXd5HrI8xo1OwFDCD6Q"
+    },
+    {
+      "name": "[BD]广东民生",
+      "logo": "https://epg.pw/media/images/channel/2023/03/13/large/20230313162507210771_64.jpeg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/d705bf2698d0b56ef2db9514c5bdf14406bd0c7fbdfd887eb3b649750bb83361.m3u8",
+      "id": "fZQeJw6jTfMQZB73emqEU"
+    },
+    {
+      "name": "[BD]广东珠江",
+      "logo": "https://epg.pw/media/images/channel/2025/01/28/large/20250128060916282738_90.png",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/e7045f18df8fa6b98756f4bc5cbd94d0099dd73e9ff3cf359d15d326ee1a733b.m3u8",
+      "id": "BrI83dNg0dGB0z1MuvIlD"
+    },
+    {
+      "name": "[SD]广东珠江",
+      "logo": "https://epg.pw/media/images/channel/2024/02/04/large/20240204144739284792_38.png",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/ad8dcd9cca87071079d7e882cb080770a762f51e3f2fa0cf243b30c2ee09da5b.ctv",
+      "id": "ob4-SA7NT9iBuqBzk-J97"
+    },
+    {
+      "name": "[HD]广东移动",
+      "logo": "https://epg.pw/media/images/channel/2023/07/21/large/20230721133240810400_64.png",
+      "group": "测试",
+      "url": "https://stream1.freetv.fun/ef054656d7deb2e72d56609d1cb441d2680cde24e52ff750b1ef59e79a268f7c.m3u8",
+      "id": "RbGOa-8g0mPcqSqJxZtwb"
+    },
+    {
+      "name": "[BD]广东卫视",
+      "logo": "https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/6787e35b48df7529fb25c86cd92936335e75d68881015ff99c3e969f57177987.ctv",
+      "id": "Sv25xFdwhZRGKU_X-9bS_"
+    },
+    {
+      "name": "[SD]广东体育",
+      "logo": "https://epg.pw/media/images/channel/2024/01/14/large/20240114130318634112_23.png",
+      "group": "运动",
+      "url": "https://stream1.freetv.fun/869475cf6ab5d187816a1b7fbd8649cfc0b41c452e5595eabb2a36e51a61eecf.m3u8",
+      "id": "4-HycpCmoz20rdGVzE_un"
+    },
+    {
+      "name": "[BD]广东体育",
+      "logo": "https://epg.pw/media/images/channel/2024/01/14/large/20240114130358843013_66.png",
+      "group": "运动",
+      "url": "https://stream1.freetv.fun/d8de197cafccb00d5ef0b74b6d51099156cdda3dfa9f12a2400ffbbd3c837f9e.ctv",
+      "id": "_iE1NvSlZH9u-rXdBleC_"
+    },
+    {
+      "name": "[BD]广西国际",
+      "logo": "https://epg.pw/media/images/channel/2022/05/27/large/20220527160856596479_90.jpg",
+      "group": "其它",
+      "url": "https://stream1.freetv.fun/183f2221f66a05a31ae1c3da27be6554f43b414aba3e4215f15cf9f244e3f24d.m3u8",
+      "id": "_ymN1_J_nPVUHI7S9fOJn"
+    },
+    {
+      "name": "[BD]广西影视",
+      "logo": "https://epg.pw/media/images/channel/2022/05/27/large/20220527161000730664_82.jpg",
+      "group": "电影",
+      "url": "https://stream1.freetv.fun/5c70f41a4e6ef88d0f3433cb05c572d7b7277881cd509e389913001e27907800.m3u8",
+      "id": "jw2-l0haCT4OtQF0tE5kV"
+    },
+    {
+      "name": "[BD]广西新闻",
+      "logo": "https://epg.pw/media/images/channel/2021/10/07/large/20211007153113076586_45.png",
+      "group": "新闻",
+      "url": "https://stream1.freetv.fun/44a547e17ca72fe25d4c825563853ea2bf27c895c49aeb7932708d5b5709d436.m3u8",
+      "id": "buDtLJ-kE-_vOrHm1Yk8p"
+    },
+    {
+      "name": "[BD]广西移动",
+      "logo": "https://epg.pw/media/images/channel/2021/10/07/large/20211007155728209881_23.png",
+      "group": "新闻",
+      "url": "https://stream1.freetv.fun/9edb6a51850843435817455b767982c01c0e429d5bd7daaa8a3d296b6abfd0d1.m3u8",
+      "id": "eBTiOhDFlw3uq2KL974V_"
+    },
+    {
+      "name": "[BD]广西综艺旅游",
+      "logo": "https://epg.pw/media/images/channel/2022/05/27/large/20220527161053042728_73.jpg",
+      "group": "综艺",
+      "url": "https://stream1.freetv.fun/daf3dbf6d04bf3379c9219793315c3160019d47e28323281ac04e53c4372d579.m3u8",
+      "id": "EnGpzR2DN600238LJn_XX"
+    },
+    {
+      "name": "[BD]广西卫视",
+      "logo": "https://epg.pw/media/images/channel/2025/01/28/large/20250128055652623222_35.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/3899ee96bfc51a8e53baa9d48c86b9b9a52907112fffcb33e94df2c05cc02d3c.m3u8",
+      "id": "L7UonE9Jcut5sW8a5zogt"
+    },
+    {
+      "name": "[BD]广西都市",
+      "logo": "https://epg.pw/media/images/channel/2023/07/19/large/20230719121158874495_87.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/d94b0f1dcfd4e590b149df8da26baf4d70057db60680580c4a4c62f21c66757e.m3u8",
+      "id": "cWAUx8OqCNH3nnTESo3xM"
+    },
+    {
+      "name": "[SD]延边卫视",
+      "logo": "https://epg.pw/media/images/channel/2022/05/31/large/20220531161239615102_64.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/d2ea3a364fa453b29060ebccb5a06a1941755859c0182ab0f071473c08738fc2.ctv",
+      "id": "7AoBfY2gp_lOLYon1tlCe"
+    },
+    {
+      "name": "[BD]成都公共",
+      "logo": "https://epg.pw/media/images/channel/2022/05/28/large/20220528221648977814_77.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/715ad226f558384bda21411f4a263eb1c2396b7dd12f22534f7f783a4f246dc6.m3u8",
+      "id": "aNzk-K2mU8isIp-dL1U9b"
+    },
+    {
+      "name": "[BD]成都少儿",
+      "logo": "https://epg.pw/media/images/channel/2022/05/28/large/20220528221926923762_84.jpg",
+      "group": "其它",
+      "url": "https://stream1.freetv.fun/d976116f8adbb3a8d489701764212dda56bae17dc110a34e845a8ce62801ce45.m3u8",
+      "id": "xopkyF2Zi0l2FggkmuodS"
+    },
+    {
+      "name": "[BD]成都影视",
+      "logo": "https://epg.pw/media/images/channel/2022/05/28/large/20220528222114088586_70.jpg",
+      "group": "综艺",
+      "url": "https://stream1.freetv.fun/e3830300c18cb17232d1c5d0c86757b82934ba3846e79f95f27ebf3370b8301a.m3u8",
+      "id": "XXGzTAI4uy7wwP3SBg1st"
+    },
+    {
+      "name": "[BD]成都新闻",
+      "logo": "https://epg.pw/media/images/channel/2022/05/28/large/20220528222017532327_58.jpg",
+      "group": "新闻",
+      "url": "https://stream1.freetv.fun/9ca034b420169c1a6c46afdcaf5827dbbdb9e9ef24eac4e9c29e770f603bded4.m3u8",
+      "id": "aqTz3vzQa4anXQRNa74-f"
+    },
+    {
+      "name": "[BD]成都经济",
+      "logo": "https://epg.pw/media/images/channel/2022/05/28/large/20220528221838315132_74.jpg",
+      "group": "其它",
+      "url": "https://stream1.freetv.fun/eb84a26421d2732da6c6c2322f4a13f028f2522f3dfd1c02b6ea6d52f05d186c.m3u8",
+      "id": "UgJSyOU7D5oAf4Ki3MDVa"
+    },
+    {
+      "name": "[BD]成都都市",
+      "logo": "https://epg.pw/media/images/channel/2022/05/28/large/20220528221601992390_31.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/6f986fa4a335d46cc4515744bd641cf9a022740e18788a0be87ac786ebdca122.m3u8",
+      "id": "dAEeL6CErFiBRnefTKNkb"
+    },
+    {
+      "name": "[BD]揭阳综合高清",
+      "logo": "https://epg.pw/media/uploads/tmp_logo/2014/06/05/20140605225331495365_87.jpg",
+      "group": "新闻",
+      "url": "https://stream1.freetv.fun/6958045c903bc63c655fad6f3e284f78361e43c4eace055ad51ad6d6946aa1ae.ctv",
+      "id": "kRVD6ecl7q9Shj47qlP0Z"
+    },
+    {
+      "name": "[BD]新疆卫视",
+      "logo": "https://epg.pw/media/images/channel/2022/05/31/large/20220531160954230977_59.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/ff50600dd45b1b1656f2f7535c04f361a6e8c33606e19dbc9b0316bd173f9408.ctv",
+      "id": "LmOlXXBFiCpGpsS7NQ615"
+    },
+    {
+      "name": "[BD]新视觉",
+      "logo": "https://epg.pw/media/images/channel/2024/07/28/large/20240728160410924348_31.jpg",
+      "group": "运动",
+      "url": "https://stream1.freetv.fun/3c327d16b055ead9c4bf194bcaaf1ea59888d43239bf526f4712cc830b28623a.m3u8",
+      "id": "aZ75gKnfGhyorLUP7a-g-"
+    },
+    {
+      "name": "[SD]白城新闻综合",
+      "logo": "https://epg.pw/media/images/channel/2022/11/01/large/20221101013959508413_44.jpg",
+      "group": "新闻",
+      "url": "https://stream1.freetv.fun/ee33f1b4185abecda1d21468cdf8962fd581dd3449384b0865e137327d8e0b58.m3u8",
+      "id": "yj_1vX6ng4R32gLMXHqdG"
+    },
+    {
+      "name": "[VGA]东南卫视",
+      "logo": "https://epg.pw/media/images/channel/2025/01/28/large/20250128055858539901_84.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/3ad6599415990b0f15bec3d681fb934f53a2f82aac7584375237a83573efe5c7.ctv",
+      "id": "dUMnxFPjXwEanJwklQ2_K"
+    },
+    {
+      "name": "[SD]东方影视",
+      "logo": "https://epg.pw/media/images/channel/2024/07/28/large/20240728224839286048_21.jpg",
+      "group": "电影",
+      "url": "https://stream1.freetv.fun/9d3c9f7982bce6a6d8c61dee6b3533032537b84c1312b8bf2613be972edfc0df.ctv",
+      "id": "Vm4sbasOd6qovtEx9xY0Z"
+    },
+    {
+      "name": "[BD]东方卫视",
+      "logo": "https://epg.pw/media/images/channel/2023/06/05/large/20230605010227137581_33.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/936a731d0f0738a903c2968c7e4d48c09cc4bf042ad218afe2d91decd1032359.ctv",
+      "id": "9cjwGbSng1ZDsCvfM8Nny"
+    },
+    {
+      "name": "[HD]东莞新闻综合",
+      "logo": "https://epg.pw/media/images/channel/2023/07/20/large/20230720202619100011_24.png",
+      "group": "新闻",
+      "url": "https://stream1.freetv.fun/f1d20f3c5cef5eafd9c816bec781027fb28accf44dd0f3421ab35728914aecfa.ctv",
+      "id": "2eCCkLOwB-chPnB6o3b2Y"
+    },
+    {
+      "name": "[SD]武义新闻综合",
+      "logo": "https://epg.pw/media/images/channel/2022/05/31/large/20220531142758356475_67.jpg",
+      "group": "新闻",
+      "url": "https://stream1.freetv.fun/f289c326c301a6e0f4efb745988664e4e703efe1d44a3da05e9c61753d4c7f38.m3u8",
+      "id": "H4sm7X88HoFms-aWzXsnY"
+    },
+    {
+      "name": "[BD]汕尾综合高清",
+      "logo": "https://epg.pw/media/uploads/tmp_logo/2018/10/18/20181018000557428409_85.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/d29f0e32508e86e8984f07d065a8a2372d51962ac8234a83b750958a43ba7748.ctv",
+      "id": "aA3stY-dkfIJ7xX5wy_un"
+    },
+    {
+      "name": "[BD]汕头生活高清",
+      "logo": "https://epg.pw/media/images/channel/2023/10/07/large/20231007180745847184_87.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/61fa28af24b2c2e5518954a50e0e9e743682c6ceafab6dfd7a5c12ee780ea748.ctv",
+      "id": "wurJgJjrKL-z8KKP0RFiJ"
+    },
+    {
+      "name": "[BD]汕头综合高清",
+      "logo": "https://epg.pw/media/images/channel/2023/11/01/large/20231101223003485086_27.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/dd32f6d2ef2242ba2c4fcfb92531fa34b0fe4cdcedbacd33bfac1f47d60978ad.ctv",
+      "id": "HpaRS8GRtGSQpUdepg9xK"
+    },
+    {
+      "name": "[VGA]江苏影视",
+      "logo": "https://epg.pw/media/images/channel/2022/05/30/large/20220530230645676753_16.jpg",
+      "group": "电影",
+      "url": "https://stream1.freetv.fun/ff51b87d5cd5bd439c8c794400e57cef00030333c15716915efdb774a013b129.ctv",
+      "id": "fqSqcO93i58cNYWvB650H"
+    },
+    {
+      "name": "[VGA]江苏综艺",
+      "logo": "https://epg.pw/media/images/channel/2022/05/30/large/20220530230738460353_80.jpg",
+      "group": "综艺",
+      "url": "https://stream1.freetv.fun/f8ef469943662bed2abc6609d9ef1720b9e93a8a0bd6f5789133461e36763f37.ctv",
+      "id": "u2y7Hm3n5Ykpx2zXXB59B"
+    },
+    {
+      "name": "[VGA]江苏卫视",
+      "logo": "https://epg.pw/media/images/channel/2022/05/30/large/20220530225651709500_84.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/4f24c45e978db16f03f9526a99b66684f76c164081454f9fb06fb75f3909339d.ctv",
+      "id": "tKuycsRTuEPjK3xgUTFZA"
+    },
+    {
+      "name": "[BD]江苏卫视",
+      "logo": "https://epg.pw/media/images/channel/2024/12/31/large/20241231173306457410_14.png",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/849a1df59ba119558408e83532462fa8a82c1dd88cd97dabecb8d4c5d5ebf66d.m3u8",
+      "id": "w1g1w4a6t7tK6k_uLvRKG"
+    },
+    {
+      "name": "[HD]江西少儿家庭",
+      "logo": "https://epg.pw/media/images/channel/2021/10/12/large/20211012201424902703_24.png",
+      "group": "儿童",
+      "url": "https://stream1.freetv.fun/e96d8291fd582b22cd23c2fb27ef3544c0bea6408d44673f0e8f6afb21e068e9.m3u8",
+      "id": "QONeI8WanlsfLkjP-aH74"
+    },
+    {
+      "name": "[HD]江西新闻",
+      "logo": "https://epg.pw/media/images/channel/2021/10/12/large/20211012202031059221_51.png",
+      "group": "新闻",
+      "url": "https://stream1.freetv.fun/4fc34b07d5b7aab2a593c62fa12c519b8ea2716559a840f7b1bd96aa58e28999.m3u8",
+      "id": "zWU6HFZQVfDNq1Ak3a5Fx"
+    },
+    {
+      "name": "[VGA]江西卫视",
+      "logo": "https://epg.pw/media/images/channel/2022/05/31/large/20220531144408646863_42.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/1d56b395bdb00424c44f8dbff39c9b2606472caa25b9328fb7231f8a97643de7.ctv",
+      "id": "ncYGQdIK-ONvh2fPc0CXC"
+    },
+    {
+      "name": "[HD]淮北经济生活",
+      "logo": "https://epg.pw/media/images/channel/2022/05/31/large/20220531150116203512_52.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/3c6e99064cb6116c2dd03648f895a91b936609e0800bc9ae5c9c7b617338bff5.ctv",
+      "id": "modsh6jjPn9iW0HQi1LbR"
+    },
+    {
+      "name": "[SD]河北卫视",
+      "logo": "https://epg.pw/media/images/channel/2022/05/31/large/20220531145616881844_72.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/53800b472ac1869f0e75f5c2b17fdee144590e10b746f523425fd6ee5cc9b490.m3u8",
+      "id": "BdLRz7rqWbuGK5CB9iEdm"
+    },
+    {
+      "name": "[HD]河北农民",
+      "logo": "https://epg.pw/media/images/channel/2022/05/31/large/20220531145755560747_44.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/cdead72ddb063bfecd55aa97d0ada0a700f3cc210fbb7b31150602f74852ee46.m3u8",
+      "id": "B57jypcYjTj2cftTVXWYP"
+    },
+    {
+      "name": "[VGA]河南卫视",
+      "logo": "https://epg.pw/media/images/channel/2022/05/30/large/20220530233814283449_10.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/ea842ab34e6da31e0eae5bd8be6c4b7d67f0b0c214efaca7ff2c5a1718f7fe55.ctv",
+      "id": "KUKiLf18VM3TYwc4prnMw"
+    },
+    {
+      "name": "[SD]洪金宝",
+      "logo": "https://epg.pw/media/images/channel/2022/08/25/large/20220825050929630341_40.png",
+      "group": "电影",
+      "url": "https://stream1.freetv.fun/6c371b384c91dc3ae3a3fa7e83ebe377d9ce4211c2b912623a487cb1a3f4740f.ctv",
+      "id": "m7iWta7jtJH5KWI9Ioa9n"
+    },
+    {
+      "name": "[VGA]浙江国际",
+      "logo": "https://epg.pw/media/images/channel/2022/05/01/large/20220501233500757287_70.png",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/18ed89b7737d66d1d1f3e585441e6880124e3feb3fa8bfe7f5cc54094afcf53f.m3u8",
+      "id": "mOrcTfQM_9hn2F1CVJhAS"
+    },
+    {
+      "name": "[BD]浙江少儿",
+      "logo": "https://epg.pw/media/images/channel/2022/05/30/large/20220530221145480622_53.jpg",
+      "group": "儿童",
+      "url": "https://stream1.freetv.fun/50c4a249494de61824ce97ab733b7617ab321cbe8dcb427681e0a93701dbf02a.m3u8",
+      "id": "NtcSaXzuSOFPXlVpb9_6o"
+    },
+    {
+      "name": "[VGA]浙江少儿",
+      "logo": "https://epg.pw/media/images/channel/2023/07/19/large/20230719123643125638_97.jpg",
+      "group": "儿童",
+      "url": "https://stream1.freetv.fun/8ef73cecb826dc005453d6c886afc2b22fda102b3c1b6fdd470ff2c6032eb7cb.m3u8",
+      "id": "KMomykd-lfBxRpoYcDSi7"
+    },
+    {
+      "name": "[VGA]浙江教育",
+      "logo": "https://epg.pw/media/img/logo/1_20.jpg",
+      "group": "其它",
+      "url": "https://stream1.freetv.fun/472e87d11e98f96d8255a57f2c0c86205014740b12936723a7267047b3f56c5d.m3u8",
+      "id": "JhOuPhzDfuK47i_uUeogq"
+    },
+    {
+      "name": "[VGA]浙江新闻",
+      "logo": "https://epg.pw/media/images/channel/2021/10/15/large/20211015190924231335_69.png",
+      "group": "新闻",
+      "url": "https://stream1.freetv.fun/03d41c16ba390e8c132dda44c07c14d196b43567d8d030a6a69515bb2a1bb4c5.m3u8",
+      "id": "R4WCPfUTExJxoJCLV-x_-"
+    },
+    {
+      "name": "[BD]浙江民生",
+      "logo": "https://epg.pw/media/images/channel/2022/05/30/large/20220530221028154749_27.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/fb69842d1d95aecc0df982e3e037dbb8899245c179aefc3d1dddcf003a28c143.m3u8",
+      "id": "MKXUludnWC5JghVn9yfPh"
+    },
+    {
+      "name": "[BD]浙江经济",
+      "logo": "https://epg.pw/media/images/channel/2022/05/30/large/20220530220929501840_43.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/4d8b9fe3035f2e18ad4cfd932ed099f54c0bc5196cba62f0bc4c77e3a9bb7a17.m3u8",
+      "id": "Ph_e7t23Ah0Y6nYlppFIX"
+    },
+    {
+      "name": "[BD]浙江卫视",
+      "logo": "https://epg.pw/media/images/channel/2024/03/11/large/20240311112431672505_47.png",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/cfe6c386aeda1787f606df629248faf407b2351852e3ea6994357836a1643f5c.ctv",
+      "id": "-nkOTH2NyyPVrZmeIa683"
+    },
+    {
+      "name": "[BD]浙江钱江",
+      "logo": "https://epg.pw/media/images/channel/2023/07/19/large/20230719123520355179_33.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/beb59949dcf45099dd66ed89aa84c89f902ad796f85026c28fb3ad2925d545e2.m3u8",
+      "id": "eoPhVA9WNqw6eKC0d0ndR"
+    },
+    {
+      "name": "[VGA]海南卫视",
+      "logo": "https://epg.pw/media/images/channel/2021/09/13/large/20210913004059839717_73.png",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/468b29e1bee51764e3cf09ee70bf730e44aaeead942f39c43e9010e9da7b7a4a.ctv",
+      "id": "RS5uY-Vv5ZhUlSHPn7-GN"
+    },
+    {
+      "name": "[BD]海峡卫视",
+      "logo": "https://epg.pw/media/images/channel/2025/01/28/large/20250128060839855238_81.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/ba0cb96ba000eebc5a91bd4ffcaed72334b786255d15f293d5f09f19c344cc0f.m3u8",
+      "id": "JL_FnLeN8x3BTrrttIgug"
+    },
+    {
+      "name": "[SD]海绵宝宝",
+      "logo": "https://epg.pw/media/uploads/tmp_logo/2018/09/11/20180911125941022048_89.jpg",
+      "group": "儿童",
+      "url": "https://stream1.freetv.fun/a9423b0805090240a90e6212c46a3ab1f6732f23ed1fb94d85f2f2d9a7691e14.ctv",
+      "id": "cECWdHOo0kWs8ly348aQT"
+    },
+    {
+      "name": "[BD]深圳卫视",
+      "logo": "https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/7d757fa493739ff207393df39f8f3802fb8ad230acf5ccb8917c0d3c6f37ef70.m3u8",
+      "id": "UyxMG2rapq8hixzdbj5gm"
+    },
+    {
+      "name": "[BD]深圳都市",
+      "logo": "https://epg.pw/media/images/channel/2022/05/19/large/20220519234446820820_32.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/10c3af6770770126fcb6f9c6565cc92a1b5c863ad7b3b49308e88ece5ddd19f3.ctv",
+      "id": "P6Za-KGV0ohE0DSpl2vUK"
+    },
+    {
+      "name": "[HD]深圳电视剧",
+      "logo": "https://epg.pw/media/images/channel/2022/05/19/large/20220519234321215989_39.jpg",
+      "group": "电影",
+      "url": "https://stream1.freetv.fun/d998541f0ea7980bd3269e70cb06bc71a468f5e6c34afe58cd0673a3dcfd7578.m3u8",
+      "id": "r6lMKcGGSVCkyCLph0kxG"
+    },
+    {
+      "name": "[HD]湖北垄上",
+      "logo": "https://epg.pw/media/images/channel/2021/10/12/large/20211012200821531692_80.png",
+      "group": "其它",
+      "url": "https://stream1.freetv.fun/de5488dfe42d8f411c4dc7bcdf6118734d41104c0d4de94cec73cef3506947c0.m3u8",
+      "id": "biif3_BZ04IHKl-eb52c4"
+    },
+    {
+      "name": "[HD]湖北影视",
+      "logo": "https://epg.pw/media/images/channel/2022/05/30/large/20220530222641595873_44.jpg",
+      "group": "电影",
+      "url": "https://stream1.freetv.fun/4afd45f76ddcb7db57420531280c942364c3550566bc17976bff074ec5b5ef8f.m3u8",
+      "id": "kcWLge0osaRn8WSU5Jfow"
+    },
+    {
+      "name": "[HD]湖北教育",
+      "logo": "https://epg.pw/media/images/channel/2022/05/30/large/20220530222548718306_13.jpg",
+      "group": "其它",
+      "url": "https://stream1.freetv.fun/e0c99472cb6326d5520668312aebbe45ff9b35a6195f62daf631c47fa78dad25.m3u8",
+      "id": "CWVVgtR9ZS3ItZuHSbMqy"
+    },
+    {
+      "name": "[HD]湖北综合",
+      "logo": "https://epg.pw/media/images/channel/2021/10/12/large/20211012195240950081_44.png",
+      "group": "新闻",
+      "url": "https://stream1.freetv.fun/a55cf145b70db7097c49ce1c256bb26c272ddba09ed129200475f44b3826e81d.m3u8",
+      "id": "XrTQKdXG_Hc0xlRMB71Hw"
+    },
+    {
+      "name": "[HD]湖北生活",
+      "logo": "https://epg.pw/media/images/channel/2021/10/12/large/20211012194700673084_86.png",
+      "group": "其它",
+      "url": "https://stream1.freetv.fun/a0b82b4e9481f63d3c5f29ca07af58ccc37a883250cb0434bfe584a7288798fb.m3u8",
+      "id": "ymcMCXIAnxKlj8FFfiX73"
+    },
+    {
+      "name": "[HD]湖北经视",
+      "logo": "https://epg.pw/media/images/channel/2022/05/31/large/20220531142705405574_66.jpg",
+      "group": "新闻",
+      "url": "https://stream1.freetv.fun/a968f766a86c2a7690ca00cd8d3467ef79b4266675256e0e1f5b356aa8177fd2.m3u8",
+      "id": "d4L8PDeWRF3m1NftLAb47"
+    },
+    {
+      "name": "[BD]湖北卫视",
+      "logo": "https://epg.pw/media/images/channel/2017/01/08/large/20170108220858481970_23.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/f159656e972aa17ba9ff4e974713a0f92b152108582d298455b0bed215d2427b.m3u8",
+      "id": "jmPOi5fWJIYPXa6Xxdo9r"
+    },
+    {
+      "name": "[HD]湖南娱乐",
+      "logo": "https://epg.pw/media/images/channel/2022/05/26/large/20220526213508482612_20.jpg",
+      "group": "综艺",
+      "url": "https://stream1.freetv.fun/8479751897491e3088c10ef6efb4c09c16eff123a65b54b6507bcb0b204b51a5.m3u8",
+      "id": "jR6frNaDPV1gnWqEFnh9q"
+    },
+    {
+      "name": "[HD]湖南教育",
+      "logo": "https://epg.pw/media/images/channel/2022/05/26/large/20220526142458097682_95.jpg",
+      "group": "其它",
+      "url": "https://stream1.freetv.fun/354283335738ca823e457e68ba3f4cd00437a1ea7d1ab361f38b38fdde7423b6.m3u8",
+      "id": "1J-87c18sTxWjzP1vUnb7"
+    },
+    {
+      "name": "[BD]湖南卫视",
+      "logo": "https://epg.pw/media/images/channel/2024/03/11/large/20240311111749846409_90.png",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/e1910a9b3c2ca17b5fca11206d336d9d733bd97f158ac90ac2bd6d84f7ad7438.m3u8",
+      "id": "AkN_YdQseMuzydOchQ9lu"
+    },
+    {
+      "name": "[VGA]湖南电视剧",
+      "logo": "https://epg.pw/media/images/channel/2024/03/11/large/20240311111928211584_68.png",
+      "group": "电影",
+      "url": "https://stream1.freetv.fun/ebe632d9d3471cff9d57bb252f6f25bae72ee32655ecd9a7f1ed44ad4407d7a5.ctv",
+      "id": "gGmpPbr-nsJoiRN4_vhoJ"
+    },
+    {
+      "name": "[HD]湖州公共",
+      "logo": "https://epg.pw/media/img/logo/3_107.jpg",
+      "group": "其它",
+      "url": "https://stream1.freetv.fun/94f93241eec509bb5096d7980b36fe86b4c4d7de2ee93272030c2c62d34e9553.m3u8",
+      "id": "NEtgymHtC6g6JZ5YPp0fz"
+    },
+    {
+      "name": "[HD]湖州娱乐",
+      "logo": "https://epg.pw/media/img/logo/3_108.jpg",
+      "group": "其它",
+      "url": "https://stream1.freetv.fun/8c0deff913dc9e1f960f84c0c8ffd1fca0db4a05a1670e16bc6eac393e9c8f7d.m3u8",
+      "id": "VFB2lH-x4oS1QgJjwoSrk"
+    },
+    {
+      "name": "[HD]泸州新闻综合",
+      "logo": "https://epg.pw/media/images/channel/2022/11/01/large/20221101020031305070_25.jpg",
+      "group": "新闻",
+      "url": "https://stream1.freetv.fun/f3f6b55376be654836bd3244e44f02cd775fb01c56a3a38115d21b118186f710.m3u8",
+      "id": "Evp9I10DsRWahXRyxgqYU"
+    },
+    {
+      "name": "[HD]吴江新闻综合",
+      "logo": "https://epg.pw/media/images/channel/2022/11/01/large/20221101000354616391_13.jpg",
+      "group": "新闻",
+      "url": "https://stream1.freetv.fun/8ac6b368420d7c8e530ef4598f781d26e0514bcf10c9a60bf92652d25d0c6401.m3u8",
+      "id": "ofbK5NCTbYWelBfI55baM"
+    },
+    {
+      "name": "[BD]经济科教",
+      "logo": "https://epg.pw/media/images/channel/2022/11/01/large/20221101015212417692_86.jpg",
+      "group": "其它",
+      "url": "https://stream1.freetv.fun/335a86a4b34384eeb26091cbe319c41d060db3bbd27f3531c5dc32559550d016.ctv",
+      "id": "tgRRkZgSTKPo2z-ESJuZr"
+    },
+    {
+      "name": "[BD]潮州综合高清",
+      "logo": "https://epg.pw/media/images/channel/2023/10/07/large/20231007174220816419_38.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/6f60d2f0c11750b138929b982c3fb04c375a7005d91bafadbebc48cae7903171.ctv",
+      "id": "VJoIedg4ldMtfLlTF01jf"
+    },
+    {
+      "name": "[SD]吉林新闻综合",
+      "logo": "https://epg.pw/media/images/channel/2022/05/27/large/20220527162205528949_87.jpg",
+      "group": "新闻",
+      "url": "https://stream1.freetv.fun/f229007f325ee603d39a4a6ef3046dd9140433eebfb43d2dfdbc410f22e6ad0a.m3u8",
+      "id": "iknAzjqFcSkP-K8Oio4hq"
+    },
+    {
+      "name": "[HD]海宁生活服务",
+      "logo": "https://epg.pw/media/img/logo/3_389.jpg",
+      "group": "其它",
+      "url": "https://stream1.freetv.fun/e5ac3e4541425aa812f19aca59fcd06a279955e60fd1647616f04a68f80ef87e.m3u8",
+      "id": "w_t21UlDudaol5KMBsB-q"
+    },
+    {
+      "name": "[BD]现代教育",
+      "logo": "https://epg.pw/media/images/channel/2022/05/07/large/20220507213333756088_57.jpg",
+      "group": "其它",
+      "url": "https://stream1.freetv.fun/054a74039124dae0f6d03f80e0851d324e25f7325220987177f45a16864ddce2.ctv",
+      "id": "JE0keTBqqQ-WovgscRISK"
+    },
+    {
+      "name": "[BD]甘肃卫视",
+      "logo": "https://epg.pw/media/images/channel/2022/05/31/large/20220531224357857126_28.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/62fc00b17e85a0f05bc7442ba4c507d0d9ed83d0e4c628543a0c8cc0f3c0e79e.m3u8",
+      "id": "2MWa-r6ZqIe3PEDnTbxRO"
+    },
+    {
+      "name": "[BD]生活时尚",
+      "logo": "https://epg.pw/media/images/channel/2024/10/29/large/20241029102325633689_90.png",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/af577cd69d640274bdefa24125bfba424d35044c1235f7a429a7e85a00fc41e4.ctv",
+      "id": "Dqg4RZq4w6iL0r2ovZGpc"
+    },
+    {
+      "name": "[BD]眉山文旅乡村",
+      "logo": "https://epg.pw/media/images/channel/2023/07/22/large/20230722142118720407_94.png",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/9a2ed7b60bc2fa94a926166d29d4b13709efa8df6d65dbcb31178ed9323266b6.m3u8",
+      "id": "W5sjGQPkDV7wdYMj56mMl"
+    },
+    {
+      "name": "[BD]峨眉山综合",
+      "logo": "https://epg.pw/media/images/channel/2023/07/22/large/20230722142014558122_43.png",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/1cf7575c3f1da0d65a80772246f246826b620f4fc0a04498bcab9ef71172c462.m3u8",
+      "id": "Miw8GX-O-A0Uqck9pUt5h"
+    },
+    {
+      "name": "[BD]第一财经",
+      "logo": "https://epg.pw/media/images/channel/2024/07/28/large/20240728160727801389_11.png",
+      "group": "新闻",
+      "url": "https://stream1.freetv.fun/7e264d7a1edc78a3ceace64e8392d218a5eb329fb06ec61422223b3722f04e80.ctv",
+      "id": "Cinssju6hHdPDcOeXV215"
+    },
+    {
+      "name": "[HD]绍兴公共频道",
+      "logo": "https://epg.pw/media/images/channel/2022/11/01/large/20221101015600126561_54.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/d7fd5957e80850e238154295e9e8de9d2ff44b78ef37cc3357e8ca4b56d996cf.m3u8",
+      "id": "vZ4NjD5HqOXomUxgxwhWd"
+    },
+    {
+      "name": "[HD]绍兴文化影视",
+      "logo": "https://epg.pw/media/images/channel/2022/11/01/large/20221101015640865496_66.jpg",
+      "group": "电影",
+      "url": "https://stream1.freetv.fun/e46895f728cf01af107df98927c3bd0664dc452a60f2d117abef3ab9b0b6768f.m3u8",
+      "id": "PUoAp7ATcsTiiJMLkH28k"
+    },
+    {
+      "name": "[SD]绍兴新闻",
+      "logo": "https://epg.pw/media/images/channel/2022/11/01/large/20221101015527100932_41.jpg",
+      "group": "新闻",
+      "url": "https://stream1.freetv.fun/dc97434564011901fa252e10b60d268deb4d101d63e5ee88c9da6d76c55bdfcf.m3u8",
+      "id": "h6F_4LwmamWHjsd4i9uai"
+    },
+    {
+      "name": "[BD]绵阳新闻",
+      "logo": "https://epg.pw/media/images/channel/2022/10/23/large/20221023013611466346_16.jpg",
+      "group": "新闻",
+      "url": "https://stream1.freetv.fun/a1e3fbc416d6a79892096212a7729bf26f66de81abac8da6197f4590fab34051.m3u8",
+      "id": "SdgMmTBUKxHc9ZOgI92ss"
+    },
+    {
+      "name": "[BD]绵阳科技",
+      "logo": "https://epg.pw/media/img/logo/mianyangkeji.jpg",
+      "group": "测试",
+      "url": "https://stream1.freetv.fun/471d1e1a5a8d3e5b1355b4734b8a642c4ff4ed21ef559bc5ec0e887a9f12f827.m3u8",
+      "id": "qzL_RNn4Xsu7WD-7foIwX"
+    },
+    {
+      "name": "[HD]新闻综合",
+      "logo": "https://epg.pw/media/images/channel/2022/11/01/large/20221101021019292176_54.jpg",
+      "group": "新闻",
+      "url": "https://stream1.freetv.fun/b15ca8c8eccf56990df595ab996e237bea8d78d60312ad61da5559e1fd2c76ac.m3u8",
+      "id": "vBYVG5jskHuHAKBeU_-vn"
+    },
+    {
+      "name": "[BD]荆门新闻综合",
+      "logo": "https://epg.pw/media/images/channel/2022/10/31/large/20221031230159254376_46.jpg",
+      "group": "新闻",
+      "url": "https://stream1.freetv.fun/93151160c381a034f6cf7e560a6fa981282baea3f54a177ee39ec6c5222f5f01.m3u8",
+      "id": "QuXYFhPX_1xwCXjR4cEAz"
+    },
+    {
+      "name": "[BD]苏州",
+      "logo": "https://epg.pw/media/images/channel/2023/07/02/large/20230702014734392249_44.jpeg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/08eed61b5977d3a1f5c69146c3587d7bbb96d6dceeb49edc9429ec03a287be9d.m3u8",
+      "id": "NVM7_senmBFnCYu0X0Us1"
+    },
+    {
+      "name": "[HD]苏州文化生活",
+      "logo": "https://epg.pw/media/img/logo/3_311.jpg",
+      "group": "其它",
+      "url": "https://stream1.freetv.fun/308673562ebc517694bd977cdebe8b7f1b974d64895ebbb7a1adf078d2cad3b8.m3u8",
+      "id": "ReRrlE3hPNm0JjBp5BO_6"
+    },
+    {
+      "name": "[BD]苏州新闻综合",
+      "logo": "https://epg.pw/media/img/logo/3_313.jpg",
+      "group": "其它",
+      "url": "https://stream1.freetv.fun/4f8bc68be9afbec05026641430a19dd462b7b2aa9fff8e01e2057af87c65d4df.m3u8",
+      "id": "6C2loiKxDtSdO6_jZnCQ-"
+    },
+    {
+      "name": "[HD]苏州生活资讯",
+      "logo": "https://epg.pw/media/img/logo/3_309.jpg",
+      "group": "其它",
+      "url": "https://stream1.freetv.fun/6552a7799d25c631a086b99ae0477bf57f95071f22ea714670af461db1d90f85.m3u8",
+      "id": "S2tfF6s_RvyZFSf55tRZE"
+    },
+    {
+      "name": "[HD]苏州社会经济",
+      "logo": "https://epg.pw/media/img/logo/3_312.jpg",
+      "group": "其它",
+      "url": "https://stream1.freetv.fun/559c2bb359f77fce4c299f29e185919aebf91fa3648ead1846cf573abdb762f8.m3u8",
+      "id": "uNLR6FL7EriAVhGZMYgy2"
+    },
+    {
+      "name": "[HD]苏州电影娱乐信息",
+      "logo": "https://epg.pw/media/images/channel/2022/11/01/large/20221101022222053424_96.jpg",
+      "group": "电影",
+      "url": "https://stream1.freetv.fun/dfceb12432bed7e11eaa7b797b96429894108f19e0139387f2ec1f9e6e26d716.ctv",
+      "id": "u49hyXdpoZH6wnNhsCuEN"
+    },
+    {
+      "name": "[SD]舒兰新闻综合",
+      "logo": "https://epg.pw/media/images/channel/2021/10/07/large/20211007160952022833_53.png",
+      "group": "新闻",
+      "url": "https://stream1.freetv.fun/73534dcbce50e3e1dcf470e19df8e01e2824e8c80dd6ef67925b2fd9dd575120.m3u8",
+      "id": "28Kmt0Wv2YfcnUeoz1DCM"
+    },
+    {
+      "name": "[BD]西宁新闻综合",
+      "logo": "https://epg.pw/media/images/channel/2022/05/31/large/20220531230922691320_46.jpg",
+      "group": "新闻",
+      "url": "https://stream1.freetv.fun/3647f2db4bebe4a7fcb23d44a0f2d5d30461ff51c6be42a485c1c3cdd0a55bf8.m3u8",
+      "id": "2PxTgWSvCzroqoEdBDCfJ"
+    },
+    {
+      "name": "[BD]西宁生活服务",
+      "logo": "https://epg.pw/media/images/channel/2022/06/01/large/20220601000411322100_52.jpg",
+      "group": "其它",
+      "url": "https://stream1.freetv.fun/78deec890a8ffff1cf4fd952b5508ac3e006a5e9ed9716b93c8d3b8f85692345.m3u8",
+      "id": "xOF5LoZcE6MxXbrITzGbM"
+    },
+    {
+      "name": "[SD]西藏卫视",
+      "logo": "https://epg.pw/media/images/channel/2022/05/31/large/20220531231110733151_44.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/0520182fdda930a14ef73fa2ed6221ba95c6ae2ddffa8c93f4b08562ea71c777.m3u8",
+      "id": "EwLXngr0hUax-nu7KHGYa"
+    },
+    {
+      "name": "[SD]贵州卫视",
+      "logo": "https://epg.pw/media/images/channel/2022/05/31/large/20220531144236171971_20.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/cc54b485fc3912265c9dbb24fe2b6d1ba2b65412d0ff45b904bc4d53ea02bf67.ctv",
+      "id": "63AhflKdtxykL09BAxCKK"
+    },
+    {
+      "name": "[VGA]中国农林卫视",
+      "logo": "https://epg.pw/media/images/channel/2022/01/15/large/20220115214129172948_47.png",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/3560edca61a3e10ce94bf15bb670a1e422c82696550d5c16de4c7ebab0de304f.ctv",
+      "id": "vzucBfB4QBUSgjEiLU8yK"
+    },
+    {
+      "name": "[BD]辽宁卫视",
+      "logo": "https://epg.pw/media/images/channel/2025/01/28/large/20250128060733782674_48.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/b2bebbb6d53b62ec21c3dca43f81123f14218a573e3986c8d65755142700cba7.m3u8",
+      "id": "Dat-IhAKQM6lQNWT-MIIa"
+    },
+    {
+      "name": "[VGA]辽宁体育",
+      "logo": "https://epg.pw/media/images/channel/2022/05/31/large/20220531155857680390_73.jpg",
+      "group": "运动",
+      "url": "https://stream1.freetv.fun/825ef3ef8dc78270e632eb68433aca757a2f732ebb08f2b16b4d401700222168.ctv",
+      "id": "7vM5DvTFgSPBGRy25BGGO"
+    },
+    {
+      "name": "[HD]邢台综合",
+      "logo": "https://epg.pw/media/images/channel/2022/10/31/large/20221031233706366035_78.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/22a727200d94fded7d5071e1fa312eea44c9131f2597e7bf0e6fafbef44071b9.m3u8",
+      "id": "kMFptIK8iaGeImBzDmgoj"
+    },
+    {
+      "name": "[BD]重庆卫视",
+      "logo": "https://epg.pw/media/images/channel/2024/03/11/large/20240311111314058451_54.png",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/db87bc979d1c5004a4b6403aa42c8cc09da751ecd2f1cf27806cf13032ea15e4.m3u8",
+      "id": "Y_SbIIUdmTyjFG8yg0w_V"
+    },
+    {
+      "name": "[BD]金川新闻综合",
+      "logo": "https://epg.pw/media/images/channel/2022/11/01/large/20221101020503465691_84.jpg",
+      "group": "新闻",
+      "url": "https://stream1.freetv.fun/54dc74bdde0493db704b2611841d45fc1172c229681ee5291c87020a8bfd2442.m3u8",
+      "id": "yvcLHbK-Ie2gtKLXqi7MS"
+    },
+    {
+      "name": "[BD]金鹰卡通",
+      "logo": "https://epg.pw/media/images/channel/2025/01/28/large/20250128060714767131_10.jpg",
+      "group": "儿童",
+      "url": "https://stream1.freetv.fun/ed9479fae0bb879ac3e59c7480d35e1c0400c77f234e1c7b01ea2a84c2ec1246.ctv",
+      "id": "W-eZPy-Vw92HYmqz_6MT6"
+    },
+    {
+      "name": "[BD]金鹰纪实",
+      "logo": "https://epg.pw/media/images/channel/2023/06/05/large/20230605010658568388_25.jpg",
+      "group": "知识",
+      "url": "https://stream1.freetv.fun/06673863c75bdea703152b8e55d90f19cbfaac578651d2b60871d5aa3c0990f7.m3u8",
+      "id": "vCZV25YBEW14V7LzX0G3x"
+    },
+    {
+      "name": "[BD]镇江新闻综合",
+      "logo": "https://epg.pw/media/images/channel/2022/11/01/large/20221101022911570371_38.jpg",
+      "group": "新闻",
+      "url": "https://stream1.freetv.fun/2e9bb68199517ec5f7e982aae997e9bc37db090142b1ac75a8c10c6afe8ee5d8.m3u8",
+      "id": "XcHNmyQvdjmOI0mpuoRVg"
+    },
+    {
+      "name": "[HD]长春综合",
+      "logo": "https://epg.pw/media/images/channel/2022/08/12/large/20220812220117628376_52.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/c52544bde510c9708eff60c52662cc95a6aabcd7588173792ced3ff019ae1897.m3u8",
+      "id": "0_sL-y2Tlryx816JgGDPs"
+    },
+    {
+      "name": "[VGA]陕西卫视",
+      "logo": "https://epg.pw/media/images/channel/2022/05/31/large/20220531150903888489_91.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/eb1d7157459fe4c37bbfad23252b85ab628f4e3d14d81aea7b4a014d2658ae41.ctv",
+      "id": "0qdgiMocEQJQHd0C9Om0A"
+    },
+    {
+      "name": "[VGA]陕西体育",
+      "logo": "https://epg.pw/media/images/channel/2022/05/31/large/20220531151408095945_53.jpg",
+      "group": "运动",
+      "url": "https://stream1.freetv.fun/898b27e606380aa43db7a4e330a6f634a4e7896b63fe636404083460b43776f2.ctv",
+      "id": "2PTI3ByMx7AiWTf8CePQR"
+    },
+    {
+      "name": "[BD]云南卫视",
+      "logo": "https://epg.pw/media/images/channel/2022/05/31/large/20220531145024469645_82.jpg",
+      "group": "其它",
+      "url": "https://stream1.freetv.fun/368e59cc43274d4c5380dfd940d1f40ee03a4b9cb5b1648b01c42b47f2516d8b.m3u8",
+      "id": "Z7d_Giu839yF4I4nMRRsO"
+    },
+    {
+      "name": "[HD]云南都市",
+      "logo": "https://epg.pw/media/images/channel/2021/10/12/large/20211012202751642735_81.png",
+      "group": "新闻",
+      "url": "https://stream1.freetv.fun/c7f89783268c13760aff864a0e464360ea9335ac3ef8a5ef52a354d7fd305ef2.m3u8",
+      "id": "OEf-LnSdDupdgvYgGjaCM"
+    },
+    {
+      "name": "[SD]电影",
+      "logo": "https://epg.pw/media/",
+      "group": "测试",
+      "url": "https://stream1.freetv.fun/e4d02d393bccc5c2b80d58eb4978c3b32181296b5fc4c92fe04bf88528736633.ctv",
+      "id": "72qvslHqvUwx1mdvKQAmX"
+    },
+    {
+      "name": "[BD]黑龙江卫视",
+      "logo": "https://epg.pw/media/images/channel/2022/05/31/large/20220531154335673922_21.jpg",
+      "group": "综合",
+      "url": "https://stream1.freetv.fun/9d7a745d71fa16ea6b1a0edce79f7b842e59487519e7a76bcef5b0c7a87a3f24.ctv",
+      "id": "gW_3HQ66f9Aa8dmitLqEZ"
+    }
+  ],
+  "tbl_analyze": [
+    {
+      "id": "1",
+      "name": "纯净",
+      "url": "https://im1907.top/?jx=",
+      "isActive": true
+    },
+    {
+      "id": "2",
+      "name": "B站",
+      "url": "https://jx.jsonplayer.com/player/?url=",
+      "isActive": true
+    },
+    {
+      "id": "3",
+      "name": "爱豆",
+      "url": "https://jx.aidouer.net/?url=",
+      "isActive": true
+    },
+    {
+      "id": "4",
+      "name": "虾米",
+      "url": "https://jx.xmflv.com/?url=",
+      "isActive": true
+    },
+    {
+      "id": "5",
+      "name": "OK解析",
+      "url": "https://okjx.cc/?url=",
+      "isActive": true
+    },
+    {
+      "id": "6",
+      "name": "诺讯",
+      "url": "https://www.nxflv.com/?url=",
+      "isActive": true
+    },
+    {
+      "id": "7",
+      "name": "夜幕",
+      "url": "https://www.yemu.xyz/?url=",
+      "isActive": true
+    },
+    {
+      "id": "8",
+      "name": "M3U8.TV",
+      "url": "https://jx.m3u8.tv/jiexi/?url=",
+      "isActive": true
+    },
+    {
+      "id": "9",
+      "name": "人人迷",
+      "url": "https://jx.blbo.cc:4433/?url=",
+      "isActive": true
+    },
+    {
+      "id": "10",
+      "name": "全民",
+      "url": "https://jx.blbo.cc:4433/?url=",
+      "isActive": true
+    },
+    {
+      "id": "11",
+      "name": "七哥",
+      "url": "https://jx.nnxv.cn/tv.php?url=",
+      "isActive": true
+    },
+    {
+      "id": "12",
+      "name": "冰豆",
+      "url": "https://api.qianqi.net/vip/?url=",
+      "isActive": true
+    },
+    {
+      "id": "13",
+      "name": "迪奥",
+      "url": "https://123.1dior.cn/?url=",
+      "isActive": true
+    },
+    {
+      "id": "14",
+      "name": "CK",
+      "url": "https://www.ckplayer.vip/jiexi/?url=",
+      "isActive": true
+    },
+    {
+      "id": "15",
+      "name": "ckmov",
+      "url": "https://www.ckmov.vip/api.php?url=",
+      "isActive": true
+    },
+    {
+      "id": "16",
+      "name": "playerjy/B站",
+      "url": "https://jx.playerjy.com/?url=",
+      "isActive": true
+    },
+    {
+      "id": "17",
+      "name": "ccyjjd",
+      "url": "https://ckmov.ccyjjd.com/ckmov/?url=",
+      "isActive": true
+    },
+    {
+      "id": "18",
+      "name": "诺诺",
+      "url": "https://www.ckmov.com/?url=",
+      "isActive": true
+    },
+    {
+      "id": "19",
+      "name": "H8",
+      "url": "https://www.h8jx.com/jiexi.php?url=",
+      "isActive": true
+    },
+    {
+      "id": "20",
+      "name": "BL",
+      "url": "https://vip.bljiex.com/?v=",
+      "isActive": true
+    },
+    {
+      "id": "21",
+      "name": "解析la",
+      "url": "https://api.jiexi.la/?url=",
+      "isActive": true
+    },
+    {
+      "id": "22",
+      "name": "MUTV",
+      "url": "https://jiexi.janan.net/jiexi/?url=",
+      "isActive": true
+    },
+    {
+      "id": "23",
+      "name": "MAO",
+      "url": "https://www.mtosz.com/m3u8.php?url=",
+      "isActive": true
+    },
+    {
+      "id": "24",
+      "name": "盘古",
+      "url": "https://www.pangujiexi.cc/jiexi.php?url=",
+      "isActive": true
+    },
+    {
+      "id": "25",
+      "name": "0523",
+      "url": "https://go.yh0523.cn/y.cy?url=",
+      "isActive": true
+    },
+    {
+      "id": "26",
+      "name": "17云",
+      "url": "https://www.1717yun.com/jx/ty.php?url=",
+      "isActive": true
+    },
+    {
+      "id": "27",
+      "name": "4K",
+      "url": "https://jx.4kdv.com/?url=",
+      "isActive": true
+    },
+    {
+      "id": "28",
+      "name": "8090",
+      "url": "https://www.8090g.cn/?url=",
+      "isActive": true
+    },
+    {
+      "id": "29",
+      "name": "180",
+      "url": "https://jx.000180.top/jx/?url=",
+      "isActive": true
+    },
+    {
+      "id": "30",
+      "name": "无名",
+      "url": "https://www.administratorw.com/video.php?url=",
+      "isActive": true
+    },
+    {
+      "id": "31",
+      "name": "yangtu",
+      "url": "https://jx.yangtu.top/?url=",
+      "isActive": true
+    },
+    {
+      "id": "32",
+      "name": "小新",
+      "url": "http://xiaoxin.1080p.me/api/?key=368b2df76af1b58d897bbe31a00180c0&url=",
+      "isActive": true
+    }
+  ],
+  "tbl_drive": [],
+  "tbl_history": [
+    {
+      "date": 1776175147,
+      "title": "八千里路云和月",
+      "type": "search",
+      "id": "aeef9d5b-177e-4532-87db-e530511c3d68"
+    },
+    {
+      "date": 1776175160,
+      "title": "乌蒙深处",
+      "type": "search",
+      "id": "a3246024-8822-4be6-a0b4-49f62ac2c489"
+    },
+    {
+      "date": 1776175199,
+      "title": "逐玉",
+      "type": "search",
+      "id": "8c5328c3-6d36-4636-8c1f-3ac5eb579888"
+    },
+    {
+      "date": 1776175630,
+      "type": "film",
+      "relateId": "5",
+      "siteSource": "lzm3u8",
+      "playEnd": false,
+      "videoId": 43634,
+      "videoImage": "https://pic.lzzypic.com/upload/vod/20221216-1/52f40be5f5a05ed3c3ee099043aa2443.jpg",
+      "videoName": "八千里路云和月",
+      "videoIndex": "第01集$https://vip1.lz-cdn6.com/20221215/36319_a7238a9d/index.m3u8",
+      "watchTime": 375.25495,
+      "duration": 3099.9539999999956,
+      "skipTimeInStart": 30,
+      "skipTimeInEnd": 30,
+      "id": "e6bb8c9f-7fe2-433d-99dd-8b07f9fd4998"
+    }
+  ],
+  "tbl_star": [],
+  "tbl_setting": [
+    {
+      "key": "id",
+      "value": 0,
+      "id": "HCmsSriIZTxn7pg0Zegex"
+    },
+    {
+      "key": "theme",
+      "value": "light",
+      "id": "MelxPJOImRof_1EyVvaVX"
+    },
+    {
+      "key": "defaultHot",
+      "value": "kylive",
+      "id": "UlzC1k4hGdMuMIUyuwNIr"
+    },
+    {
+      "key": "defaultSearchRecommend",
+      "value": "site",
+      "id": "N-dpFZGuc5X-A1D9fnD9r"
+    },
+    {
+      "key": "defaultSearchType",
+      "value": "site",
+      "id": "fS9QoNqNIsPMaBi3C4vpu"
+    },
+    {
+      "key": "defaultCheckModel",
+      "value": true,
+      "id": "Pox92XxO3rmazDm53QZUT"
+    },
+    {
+      "key": "defaultChangeModel",
+      "value": false,
+      "id": "mXdzCAnBfjDTGMQDoVPXT"
+    },
+    {
+      "key": "defaultIptvEpg",
+      "value": "http://diyp.112114.xyz/",
+      "id": "tYkZL-AY4pi31Ur4L_I07"
+    },
+    {
+      "key": "iptvSkipIpv6",
+      "value": true,
+      "id": "UV7K0z00O9RpRv2_pJYYC"
+    },
+    {
+      "key": "iptvThumbnail",
+      "value": false,
+      "id": "S7obHSOi403FZJNLGnpYz"
+    },
+    {
+      "key": "defaultSite",
+      "value": null,
+      "id": "H0F1d5tAqXBTFEyzZczge"
+    },
+    {
+      "key": "defaultIptv",
+      "value": "ebd4a5ab-ea21-462e-82f7-804048a4db96",
+      "id": "VUYGawtBvcMuye92DUFSh"
+    },
+    {
+      "key": "defaultAnalyze",
+      "value": null,
+      "id": "OANy3x_Lh-hX7DqTY0inM"
+    },
+    {
+      "key": "analyzeFlag",
+      "value": [
+        "youku",
+        "qq",
+        "iqiyi",
+        "qiyi",
+        "letv",
+        "sohu",
+        "tudou",
+        "pptv",
+        "mgtv"
+      ],
+      "id": "1p_VqGoRTci7TpPwsx0BO"
+    },
+    {
+      "key": "softSolution",
+      "value": false,
+      "id": "Pah2LgNF9Qtp7kTZlahzq"
+    },
+    {
+      "key": "agreementMask",
+      "value": true,
+      "id": "CaqU0ZXTOWJigeitqhDtY"
+    },
+    {
+      "key": "recordShortcut",
+      "value": "",
+      "id": "MICwN9Av7E1U4fbt9vaOV"
+    },
+    {
+      "key": "selfBoot",
+      "value": false,
+      "id": "UgY9GW4-eBX7ncVJScxAd"
+    },
+    {
+      "key": "hardwareAcceleration",
+      "value": true,
+      "id": "MSCEGi3OGOb4MnEg61NH-"
+    },
+    {
+      "key": "doh",
+      "value": "",
+      "id": "o9f4aHd6FITZRuOPgoX3o"
+    },
+    {
+      "key": "ua",
+      "value": "Mozilla/5.0 (Linux; Android 11; M2007J3SC Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/77.0.3865.120 MQQBrowser/6.2 TBS/045714 Mobile Safari/537.36",
+      "id": "23PFtJWAfRncX31L8blJW"
+    },
+    {
+      "key": "communitySubscribe",
+      "value": "",
+      "id": "wK3w20gPcoT0A-NYozpC1"
+    },
+    {
+      "key": "iptvStatus",
+      "value": false,
+      "id": "jrNrMFLnzfgGlm0_QpP3s"
+    },
+    {
+      "key": "dns",
+      "value": "",
+      "id": "eSwjtT35a4weerEwoEq5P"
+    },
+    {
+      "id": "SMKxfqFMLwXiG-6FzXMXr",
+      "key": "windowPosition",
+      "value": {
+        "status": false,
+        "position_main": {
+          "width": 1000,
+          "height": 640
+        },
+        "position_play": {
+          "x": 245,
+          "y": 89,
+          "width": 875,
+          "height": 550
+        }
+      }
+    },
+    {
+      "id": "6J_XHJHBJzmo33Xxef2dK",
+      "key": "webdev",
+      "value": {
+        "sync": false,
+        "data": {
+          "url": "https://dav.jianguoyun.com/dav/",
+          "username": "",
+          "password": ""
+        }
+      }
+    },
+    {
+      "id": "hnAD95K2crL3h8glf30Jb",
+      "key": "lang",
+      "value": "zh_CN"
+    },
+    {
+      "id": "m2lcqXoWccffczzBbH6W0",
+      "key": "defaultViewCasual",
+      "value": ""
+    },
+    {
+      "id": "k1vzaOEQQx6zVW5ZkhK6m",
+      "key": "barrage",
+      "value": {
+        "url": "",
+        "key": "",
+        "support": "",
+        "start": "",
+        "mode": "",
+        "color": "",
+        "content": ""
+      }
+    },
+    {
+      "id": "6a9mD1jFQlJ-nU0uCE19L",
+      "key": "playerMode",
+      "value": {
+        "type": "dplayer",
+        "external": ""
+      }
+    },
+    {
+      "id": "YwH6I6Hlb423Fpz5_EsMq",
+      "key": "snifferMode",
+      "value": {
+        "type": "pie",
+        "url": ""
+      }
+    },
+    {
+      "id": "UTta0Potm0hs4e_XpFfjE",
+      "key": "timeout",
+      "value": 5000
+    },
+    {
+      "id": "z3kqPrxOmKlpAh8IoLAKC",
+      "key": "ai",
+      "value": {
+        "server": "",
+        "key": "",
+        "model": ""
+      }
+    },
+    {
+      "id": "Bc6L0rnRBsOIdiGINvryC",
+      "key": "defaultFilterType",
+      "value": "off"
+    },
+    {
+      "id": "XqKs921zMTVDTbTa6a7vx",
+      "key": "debug",
+      "value": false
+    },
+    {
+      "id": "HXiAUjubS0tR-Ml9URFAp",
+      "key": "version",
+      "value": "3.3.7"
+    },
+    {
+      "key": "defaultDanMuKu",
+      "value": "",
+      "id": "-o84uGpV9WpwXizyJaCKI"
+    },
+    {
+      "key": "defaultIptvLogo",
+      "value": "https://epg.112114.eu.org/logo/",
+      "id": "jlUBg3VdH73G5T8smkwlz"
+    },
+    {
+      "key": "defaultDrive",
+      "value": "",
+      "id": "2yT6OM7KbSizApGy_5o9X"
+    }
+  ]
+}

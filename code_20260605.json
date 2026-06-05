@@ -1,0 +1,29 @@
+{
+  "spider": "https://gitee.com/ztha002/th/raw/master/ztha.jar",
+  "wallpaper": "",
+  "logo": "https://s3.bmp.ovh/2026/06/01/cI0ZYjAQ.jpg",
+  "sites": [
+    {"key":"豆瓣","name":"公众号：极客小盒","type":3,"api":"csp_Douban","searchable":0},
+    {"key":"腾腾视频","name":"腾腾｜视频","type":3,"api":"https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js","ext":""},
+    {"key":"酷酷视频","name":"酷酷｜视频","type":3,"api":"https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js","ext":""},
+    {"key":"果果视频","name":"果果｜视频","type":3,"api":"https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js","ext":""},
+    {"key":"奇奇视频","name":"奇奇｜视频","type":3,"api":"https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js","ext":""},
+    {"key":"裤佬-EmbyJS","name":"EMBY｜免扫4K","type":3,"api":"https://mpimg.cn/down.php/40d30fe3d9671e0d700f1c272bb20aaa.js","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitee.com/lujun189/ceshi/raw/master/1/jar/feimao.jar"},
+    {"key":"魔都资源","name":"魔都丨APP","type":1,"api":"https://www.mdzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"jar":""},
+    {"key":"暴风采集","name":"暴风┃采集","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","jar":"https://gitee.com/KYSY1/dyy/raw/master/bh2601251.jar"},
+    {"key":"率率","name":"率率｜资源","type":1,"api":"https://suoniapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1}
+  ],
+  "lives": [
+    {"name":"奥斯卡","url":"https://gitee.com/OscarWilde/itv/raw/master/tv.txt"}
+  ],
+  "parses": [
+    {"name":"巧技","type":1,"url":"https://zy.qiaoji8.com/neibu.php?url=","ext":{"flag":["qq","qiyi","youku"],"header":{"User-Agent":"okhttp/4.9.1"}}},
+    {"name":"ikun","type":0,"url":"shturl.cc/LgVAHp3DhOZwWM"},
+    {"name":"77","type":0,"url":"https://jx.77flv.cc/?url="},
+    {"name":"冰豆","type":0,"url":"shturl.cc/HFlgMdsJC528"}
+  ],
+  "flags":["youku","qq","iqiyi","letv","mgtv","bilibili"],
+  "rules": [
+    {"name":"♻️量非","hosts":["lz","vip.lz","ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]}
+  ]
+}
